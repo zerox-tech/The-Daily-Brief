@@ -1,0 +1,54 @@
+{
+  "sections": {
+    "world": {
+      "label": "World",
+      "feeds": [
+        {"source": "BBC News", "url": "http://feeds.bbci.co.uk/news/world/rss.xml"},
+        {"source": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"},
+        {"source": "Wall Street Journal", "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews"},
+        {"source": "Al Jazeera", "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+        {"source": "The Guardian", "url": "https://www.theguardian.com/world/rss"}
+      ]
+    },
+    "pakistan": {
+      "label": "Pakistan",
+      "feeds": [
+        {"source": "Dawn", "url": "https://www.dawn.com/feeds/home"},
+        {"source": "Express Tribune", "url": "https://tribune.com.pk/feed/home"},
+        {"source": "The News", "url": "https://www.thenews.com.pk/rss/1/1"},
+        {"source": "Geo News", "url": "https://www.geo.tv/rss/1/1"}
+      ]
+    },
+    "business": {
+      "label": "Finance",
+      "feeds": [
+        {"source": "WSJ Markets", "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain"},
+        {"source": "WSJ Business", "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"},
+        {"source": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml"},
+        {"source": "CNBC", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html"},
+        {"source": "BBC Business", "url": "http://feeds.bbci.co.uk/news/business/rss.xml"},
+        {"source": "Dawn Business", "url": "https://www.dawn.com/feeds/business"},
+        {"source": "Tribune Business", "url": "https://tribune.com.pk/feed/business"}
+      ]
+    },
+    "sports": {
+      "label": "Sports",
+      "feeds": [
+        {"source": "BBC Sport", "url": "http://feeds.bbci.co.uk/sport/rss.xml"},
+        {"source": "ESPN", "url": "https://www.espn.com/espn/rss/news"},
+        {"source": "ESPNcricinfo", "url": "https://www.espncricinfo.com/rss/content/story/feeds/0.xml"},
+        {"source": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml"},
+        {"source": "Dawn Sport", "url": "https://www.dawn.com/feeds/sport"},
+        {"source": "Tribune Sports", "url": "https://tribune.com.pk/feed/sports"}
+      ]
+    },
+    "tech": {
+      "label": "Tech",
+      "feeds": [
+        {"source": "BBC Tech", "url": "http://feeds.bbci.co.uk/news/technology/rss.xml"},
+        {"source": "New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml"},
+        {"source": "The Guardian", "url": "https://www.theguardian.com/technology/rss"}
+      ]
+    }
+  }
+}
