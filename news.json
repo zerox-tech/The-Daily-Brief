@@ -1,16 +1,223 @@
 {
- "updated": "2026-11-24T20:35:49.330942+00:00",
+ "updated": "2026-11-25T04:04:07.214979+00:00",
  "sections": {
   "world": {
    "label": "World",
    "items": [
     {
-     "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
+     "title": "Australian politics live: Two Nationals kicked out of question time as Taylor slams ‘dirty deal’ with Greens; NSW responds to fire ant threat in Sydney",
      "link": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-     "summary": "Get our daily political email, free app or daily news podcast Coalition welcomes Solomon Islands dropping China pact Liberal leader, Angus Taylor, has welcomed the Solomon Islands scrapping its pact with Beijing and signing a treaty with Australia – with the leader, Matthew…",
+     "summary": "Get our daily political email, free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect…",
      "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=140&quality=85&auto=format&fit=max&s=85e5b45b6c5cfbb4be355f9033b66c76",
-     "time": "2026-11-24T20:20:46+00:00",
+     "image": "https://i.guim.co.uk/img/media/38296a4aa5e85e8d793db99da1659b2cb525aea4/260_143_2751_2201/master/2751.jpg?width=140&quality=85&auto=format&fit=max&s=5ff92fc2d4cdd987183bc51e9a2a3858",
+     "time": "2026-11-25T03:58:29+00:00",
+     "also": []
+    },
+    {
+     "title": "Colombia’s president arrives at scene of supermarket hostage siege in tourist city",
+     "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
+     "summary": "Abelardo de la Espriella to take control of an operation involving scores of security personnel trying to free at least 20 hostages Colombia’s president has arrived at the scene of an hours-long standoff between security services and gunmen holding at least 20 people hostage…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b",
+     "time": "2026-11-25T03:57:11+00:00",
+     "also": []
+    },
+    {
+     "title": "Australia’s inflation rate jumping to 4.9% a ‘very serious moment’ for economy, Chalmers declares",
+     "link": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+     "summary": "Figure up from 4.3% annual rate in September and nearly double Reserve Bank’s official target of 2.5% as Australia’s cost-of-living crisis intensifies Follow our Australia politics live blog for latest updates Get our daily political email, free app or daily news podcast Jim…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/499ada5ed54afcbc41596219521a53ff447827a4/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=36f537dbf9f90ebd0d2fadb83678fdc8",
+     "time": "2026-11-25T03:55:50+00:00",
+     "also": []
+    },
+    {
+     "title": "US attorney general dodges questions about Nvidia investigation",
+     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+     "time": "2026-11-25T03:44:07+00:00",
+     "also": []
+    },
+    {
+     "title": "China Takes Down Shanghai Party Boss Once Seen as Potential Leader",
+     "link": "https://www.wsj.com/world/china/china-takes-down-shanghai-party-boss-once-seen-as-potential-leader-5d6d06e0?mod=rss_worldnews",
+     "summary": "Chen Jining, the party secretary of Shanghai, has been placed under investigation on suspicion of severe violations of party discipline and state laws.",
+     "source": "Wall Street Journal",
+     "image": "https://images.wsj.net/im-73533904",
+     "time": "2026-11-25T03:13:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Beau Lamarre-Condon found guilty of murdering Jesse Baird and Luke Davies",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-verdict-former-police-officer-jesse-baird-luke-davies-ntwnfb",
+     "summary": "Jury finds former police officer guilty of killing couple in Baird’s Sydney home in 2024 Get our breaking news email, free app or daily news podcast Former police officer Beau Lamarre-Condon has been found guilty of murdering Jesse Baird and Luke Davies with his service weapon.…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ebfc885f7db8935002487a469a0f9baba836690e/262_168_2337_1870/master/2337.jpg?width=140&quality=85&auto=format&fit=max&s=dcd597bc5dff7cf8a66573ffddcbfff0",
+     "time": "2026-11-25T03:05:42+00:00",
+     "also": []
+    },
+    {
+     "title": "The Russian army’s secret death toll – podcast",
+     "link": "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
+     "summary": "Vladimir Putin has always kept the number of soldiers killed in Ukraine a secret, but at one point 720 were dying in 24 hours. Pjotr Sauer reports. Send your comments and questions to tif.questions@theguardian.com Russia has kept the death toll of its soldiers in the Ukraine…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/73eb1f79e1f589dbc01f5457078faa6090ee6ee2/17_0_3549_2838/master/3549.jpg?width=140&quality=85&auto=format&fit=max&s=8f2b91771886bc5fe0b2dd8f2686ebf1",
+     "time": "2026-11-25T03:00:03+00:00",
+     "also": []
+    },
+    {
+     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "summary": "The verdict follows a months-long trial in New York.",
+     "source": "BBC News",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+     "time": "2026-11-25T02:59:27+00:00",
+     "also": []
+    },
+    {
+     "title": "Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials",
+     "link": "https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html",
+     "summary": "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/12/10/multimedia/10xp-markle-bjgq/10xp-markle-bjgq-mediumSquareAt3X.jpg",
+     "time": "2026-11-25T02:55:17+00:00",
+     "also": []
+    },
+    {
+     "title": "Pakistani astronaut launches into space aboard Chinese rocket",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/pakistani-astronaut-launches-into-space-aboard-chinese-rocket?traffic_source=rss",
+     "summary": "Pakistani astronaut Muhammad Zeeshan Ali has launched into space aboard a Chinese rocket.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T02:44:45+00:00",
+     "also": []
+    },
+    {
+     "title": "China’s Military Ambitions in the Pacific Suffer Setback",
+     "link": "https://www.wsj.com/world/asia/chinas-military-ambitions-in-the-pacific-suffer-setback-ef5a2d30?mod=rss_worldnews",
+     "summary": "The Solomon Islands said it won’t allow foreign bases on its soil, calming worries that the country was slipping into China’s orbit and that Beijing could open a military outpost there.",
+     "source": "Wall Street Journal",
+     "image": "https://images.wsj.net/im-83895901",
+     "time": "2026-11-25T02:44:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Kilmar Abrego Garcia self-deports to Spain after lengthy US legal battle",
+     "link": "https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-self-deports-to-spain-after-lengthy-us-legal-battle?traffic_source=rss",
+     "summary": "US Senator Chris Van Hollen hails Kilmar Abrego Garcia's safe departure to Spain as a 'free man'.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T02:40:59+00:00",
+     "also": []
+    },
+    {
+     "title": "WHO chief urges end to US fuel blockade on Cuba",
+     "link": "https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss",
+     "summary": "UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T02:23:19+00:00",
+     "also": []
+    },
+    {
+     "title": "Shapiro Accuses Biden of Not Doing Enough to Rein In Netanyahu",
+     "link": "https://www.wsj.com/politics/policy/shapiro-accuses-biden-of-not-doing-enough-to-rein-in-netanyahu-b139e9de?mod=rss_worldnews",
+     "summary": "The Pennsylvania governor said Biden didn’t go far enough to constrain Netanyahu in his first interview on foreign policy ahead of a potential 2028 run.",
+     "source": "Wall Street Journal",
+     "image": "https://images.wsj.net/im-50562717",
+     "time": "2026-11-25T02:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+     "link": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
+     "summary": "Anthony Albanese and Matthew Wale sign new treaty as Solomon Islands PM states his country no longer ‘a source of uncertainty and doubt in the region’ The Solomon Islands prime minister says the days of his country being an uncertain partner in the Pacific are over as he signed…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b962796bea53cf339ac44ee52d0043644f41d4b1/450_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=ad8cc8c314fb95ce1ca0c7de3574da2d",
+     "time": "2026-11-25T01:51:02+00:00",
+     "also": []
+    },
+    {
+     "title": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
+     "link": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews",
+     "summary": "The strike on the Public Investment Fund Tower follows a previous Houthi assault on the building on Thursday.",
+     "source": "Wall Street Journal",
+     "image": "https://images.wsj.net/im-70345756",
+     "time": "2026-11-25T01:43:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Senegal fans celebrate AFCON legal victory over Morocco",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss",
+     "summary": "Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T01:39:53+00:00",
+     "also": []
+    },
+    {
+     "title": "China investigates politburo star in Xi Jinping’s latest purge",
+     "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
+     "summary": "Chen Jining, regarded as a contender for higher office, becomes the fourth member of China’s elite politburo to be investigated since 2025 China has launched an investigation into Shanghai’s Communist party chief Chen Jining, a member of the country’s elite politburo, the…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/c4f99890561c34364853932923e32733830c648c/451_0_6570_5256/master/6570.jpg?width=140&quality=85&auto=format&fit=max&s=fef35558e5ef28df29fec8688e75819c",
+     "time": "2026-11-25T01:31:46+00:00",
+     "also": []
+    },
+    {
+     "title": "Israel’s Eisenkot secures first coalition partner in bid to form government",
+     "link": "https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss",
+     "summary": "The Yashar party says it agreed to sign a coalition pact with Israel's Our Home party, led by Avigdor Lieberman.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T01:30:44+00:00",
+     "also": []
+    },
+    {
+     "title": "Iran whips singer Parastoo Ahmadi 74 times over YouTube concert",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/iran-whips-singer-parastoo-ahmadi-74-times-over-youtube-concert?traffic_source=rss",
+     "summary": "Iranian authorities have lashed singer Parastoo Ahmadi over a 2024 performance streamed live on YouTube.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T01:21:02+00:00",
+     "also": []
+    },
+    {
+     "title": "Poll finds US voters want government to end Iran war regardless of terms",
+     "link": "https://www.aljazeera.com/news/2026/11/25/poll-finds-us-voters-want-government-to-end-iran-war-regardless-of-terms?traffic_source=rss",
+     "summary": "New survey finds that 55 percent of voters, including 80 percent of Democrats, want war brought to an end immediately.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T01:14:22+00:00",
+     "also": []
+    },
+    {
+     "title": "Gunmen hold dozens hostage in Colombia supermarket",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+     "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T00:49:35+00:00",
+     "also": []
+    },
+    {
+     "title": "Trump Administration Pauses Joint Operations With Ecuador",
+     "link": "https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html",
+     "summary": "The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/10/23/world/24int-ecuador-us-strikes/24int-ecuador-us-strikes-mediumSquareAt3X.jpg",
+     "time": "2026-11-25T00:42:52+00:00",
+     "also": []
+    },
+    {
+     "title": "What will Victoria’s election result mean for nine datacentre projects awaiting approval?",
+     "link": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
+     "summary": "Despite community backlash, some firms are confident they will get the green light as Coalition says datacentres ‘will be an important part of Victoria’s future’ Follow our Australia politics live blog for latest updates Get our breaking news email, free app or daily news…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3b89e28e5ba5e8144ba48afc19a8cdcb",
+     "time": "2026-11-25T00:42:17+00:00",
      "also": []
     },
     {
@@ -19,7 +226,205 @@
      "summary": "Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-iraq-pm-01-vgct/24int-iraq-pm-01-vgct-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T20:12:41+00:00",
+     "time": "2026-11-25T00:38:35+00:00",
+     "also": []
+    },
+    {
+     "title": "Alaska ends deal to give voter records to US Justice Department",
+     "link": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+     "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T00:28:28+00:00",
+     "also": []
+    },
+    {
+     "title": "Iran war live: Saudi-led coalition strikes Yemen’s Hodeidah port",
+     "link": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+     "summary": "The Saudi coalition says its forces targeted operational capabilities at Hodeidah port and hit sites in northern Yemen.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-25T00:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Kilmar Ábrego García, man at center of Trump deportation battle, leaves US",
+     "link": "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
+     "summary": "Salvadorian man, who was deported in March 2025 and returned to US after supreme court ruling, leaving of own volition for Spain Kilmar Ábrego García has left the United States of his own volition, his lawyers confirmed on Tuesday, with the Department of Homeland Security…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/15d0ddecd877f6d5df4f8e4c21bb5be5961696ea/1245_0_4004_3203/master/4004.jpg?width=140&quality=85&auto=format&fit=max&s=cc50a0643f2aa3990ed51abd6f550f8d",
+     "time": "2026-11-24T23:50:31+00:00",
+     "also": []
+    },
+    {
+     "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+     "link": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+     "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T23:39:13+00:00",
+     "also": []
+    },
+    {
+     "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+     "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+     "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T23:29:40+00:00",
+     "also": []
+    },
+    {
+     "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+     "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+     "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T22:50:16+00:00",
+     "also": []
+    },
+    {
+     "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
+     "link": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+     "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T22:37:20+00:00",
+     "also": []
+    },
+    {
+     "title": "Pope Francis Diary Excerpts Published in New Book",
+     "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
+     "summary": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-pope-diary01-photo-vhtj/24int-pope-diary01-photo-vhtj-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T22:03:38+00:00",
+     "also": []
+    },
+    {
+     "title": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+     "link": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
+     "summary": "The US attorney general refused to discuss claims by Donald Trump that his administration conducted a 'thorough' probe.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T22:01:26+00:00",
+     "also": []
+    },
+    {
+     "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
+     "link": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_worldnews",
+     "summary": "The higher-than-expected figure underscores the challenges faced by the U.S.-backed interim government.",
+     "source": "Wall Street Journal",
+     "image": "https://images.wsj.net/im-15932570",
+     "time": "2026-11-24T21:55:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+     "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+     "summary": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T21:45:42+00:00",
+     "also": []
+    },
+    {
+     "title": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+     "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+     "summary": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T21:43:34+00:00",
+     "also": []
+    },
+    {
+     "title": "Oil Prices Rebound as Shipping Risks Persist",
+     "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_worldnews",
+     "summary": "Oil prices picked up from initial losses and settled higher Tuesday as traders weighed persistent threats to energy shipments in the Middle East against expectations of a global supply surplus.",
+     "source": "Wall Street Journal",
+     "image": "https://images.wsj.net/im-71108007",
+     "time": "2026-11-24T21:28:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Russian jets spark air raid alert in South Korea",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+     "summary": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T21:14:57+00:00",
+     "also": []
+    },
+    {
+     "title": "‘Saturday Night Live’ Is Coming to France",
+     "link": "https://www.nytimes.com/2026/11/24/arts/television/snl-france.html",
+     "summary": "A French adaptation of the American sketch comedy institution will premiere next month on the premium channel Canal+. It comes as a British version is hitting a stride.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-snl-france/24xp-snl-france-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T21:13:22+00:00",
+     "also": []
+    },
+    {
+     "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+     "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+     "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T21:12:54+00:00",
+     "also": []
+    },
+    {
+     "title": "Ten hostages released in standoff with gunmen at Colombia supermarket",
+     "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+     "summary": "10 of about 25 people held hostage were released from supermarket surrounded by police and troops.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T21:04:46+00:00",
+     "also": []
+    },
+    {
+     "title": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
+     "summary": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T20:58:41+00:00",
+     "also": []
+    },
+    {
+     "title": "National Security vs. the Stock Market",
+     "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html",
+     "summary": "President Trump swept aside concerns about possible espionage when he lobbied Nvidia’s board to reinstate Jensen Huang as chief executive.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25int-theworld-nvidia-trump-01-alt-fphm-promo/25int-theworld-nvidia-trump-01-alt-fphm-promo-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T20:56:04+00:00",
+     "also": []
+    },
+    {
+     "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+     "link": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+     "summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T20:35:03+00:00",
+     "also": []
+    },
+    {
+     "title": "US Army to detonate more than 4 tonnes of lead azide in Iowa on Wednesday",
+     "link": "https://www.aljazeera.com/news/2026/11/24/us-army-to-detonate-more-than-4-tonnes-of-lead-azide-in-iowa-on-wednesday?traffic_source=rss",
+     "summary": "Despite alarm about toxic lead, federal officials say destroying the unstable explosives is the safest course of action.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T20:28:40+00:00",
+     "also": []
+    },
+    {
+     "title": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
+     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+     "summary": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
+     "source": "Al Jazeera",
+     "image": null,
+     "time": "2026-11-24T20:18:19+00:00",
      "also": []
     },
     {
@@ -37,7 +442,7 @@
      "summary": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T19:54:58+00:00",
+     "time": "2026-11-24T19:54:59+00:00",
      "also": []
     },
     {
@@ -68,30 +473,12 @@
      "also": []
     },
     {
-     "title": "China Southern Airlines unit to buy 50 Boeing 737-8 planes",
-     "link": "https://www.aljazeera.com/economy/2026/11/24/china-southern-airlines-unit-to-buy-50-boeing-737-8-planes?traffic_source=rss",
-     "summary": "The agreement marks the US planemaker's first major order from China in almost a decade.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T19:19:50+00:00",
-     "also": []
-    },
-    {
      "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html",
      "summary": "The people were wounded in the strike on a building in Riyadh, the Saudi authorities said. The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Saudi-tower-qhtf/24Saudi-tower-qhtf-mediumSquareAt3X.jpg",
      "time": "2026-11-24T19:18:15+00:00",
-     "also": []
-    },
-    {
-     "title": "US House counsel denies backing controversial raid on Ilhan Omar’s home",
-     "link": "https://www.aljazeera.com/news/2026/11/24/us-house-counsel-denies-backing-controversial-raid-on-ilhan-omars-home?traffic_source=rss",
-     "summary": "Legal counsel challenges DOJ's assertion of House's involvement in controversial raid on Ilhan Omar's home.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T19:15:25+00:00",
      "also": []
     },
     {
@@ -113,75 +500,12 @@
      "also": []
     },
     {
-     "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-     "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-     "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T19:03:24+00:00",
-     "also": []
-    },
-    {
-     "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
-     "link": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
-     "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T19:02:49+00:00",
-     "also": []
-    },
-    {
-     "title": "US attorney general dodges questions about Nvidia investigation",
-     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-     "time": "2026-11-24T18:55:59+00:00",
-     "also": []
-    },
-    {
-     "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
-     "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
-     "summary": "Landmine monitor found 84 percent of deaths caused by landmines were in Southeast Asia.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T18:47:05+00:00",
-     "also": []
-    },
-    {
-     "title": "Is Libya a new front in the Ukraine war?",
-     "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss",
-     "summary": "Ukraine's President Volodymyr Zelenskyy says two Russian vessels were targeted in Libya's waters.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T18:38:49+00:00",
-     "also": []
-    },
-    {
-     "title": "Armed men take 25 hostages at supermarket in one of Colombia’s top tourist destinations",
-     "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-     "summary": "Police say group seized store in city of Cartagena and local media showed footage of snipers on nearby buildings A group of armed men with their faces covered seized a supermarket in the Colombian city of Cartagena on Tuesday and are holding 25 people hostage, the president,…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/f8a8fb8355ddb1ecdb881d8269bc5511bc8d29a1/501_0_4354_3482/master/4354.jpg?width=140&quality=85&auto=format&fit=max&s=dda521c7fce25858e4b1ae7552a3546b",
-     "time": "2026-11-24T18:36:08+00:00",
-     "also": []
-    },
-    {
      "title": "A Lion on the Loose Near Istanbul? Not So Fast.",
      "link": "https://www.nytimes.com/2026/11/24/world/middleeast/turkey-istanbul-lion.html",
      "summary": "Blurry surveillance footage spurred a frantic search — until the Turkish authorities said it was unclear whether the animal was the feline.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-istanbul-lion-bmfp/24int-istanbul-lion-bmfp-mediumSquareAt3X.jpg",
      "time": "2026-11-24T18:25:38+00:00",
-     "also": []
-    },
-    {
-     "title": "Senior Hamas security official killed in Israeli drone strikes",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
-     "summary": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T18:20:00+00:00",
      "also": []
     },
     {
@@ -194,66 +518,12 @@
      "also": []
     },
     {
-     "title": "Colombia at a Crossroads: Searching for peace amid conflict",
-     "link": "https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss",
-     "summary": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T18:00:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Should freedom of movement be a right or a privilege?",
-     "link": "https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss",
-     "summary": "Is freedom of movement a right or a privilege?",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T17:45:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Cameroon separatist leader pleads not guilty at war crimes trial in Norway",
-     "link": "https://www.aljazeera.com/news/2026/11/24/cameroon-separatist-leader-pleads-not-guilty-in-war-crimes-trial?traffic_source=rss",
-     "summary": "Lucas Cho Ayaba is accused of remotely planning attacks that killed and injured dozens of civilians.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T17:39:18+00:00",
-     "also": []
-    },
-    {
-     "title": "Five tonnes of explosives set to blow up in Iowa",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
-     "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T17:33:41+00:00",
-     "also": []
-    },
-    {
-     "title": "US sanctions on Lebanon’s Hezbollah-affiliates may have limited impact",
-     "link": "https://www.aljazeera.com/news/2026/11/24/us-sanctions-on-lebanons-hezbollah-affiliates-may-have-limited-impact?traffic_source=rss",
-     "summary": "Analysts say US sanctions unlikely to weaken Hezbollah significantly, but risk hurting everyday Lebanese.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T17:25:57+00:00",
-     "also": []
-    },
-    {
      "title": "I Went Inside Chornobyl as Ukraine Races to Secure It",
      "link": "https://www.wsj.com/world/i-went-inside-chornobyl-as-ukraine-races-to-secure-it-08d719cd?mod=rss_worldnews",
      "summary": "Watch how Ukrainian engineers and the armed forces are racing to contain radiation at the nuclear power plant.",
      "source": "Wall Street Journal",
      "image": "https://images.wsj.net/im-31549829",
      "time": "2026-11-24T17:08:00+00:00",
-     "also": []
-    },
-    {
-     "title": "After Libya, where will Ukraine strike Russia next?",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
-     "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T17:05:45+00:00",
      "also": []
     },
     {
@@ -272,33 +542,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cb/live/68cc7a10-e81e-11f1-ab42-55d8d8278025.jpg",
      "time": "2026-11-24T16:49:07+00:00",
-     "also": []
-    },
-    {
-     "title": "How Senegal got their AFCON trophy back",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
-     "summary": "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T16:41:22+00:00",
-     "also": []
-    },
-    {
-     "title": "‘Unfinished Beginnings’: Art installation for children affected by war",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/unfinished-beginnings-art-installation-for-children-affected-by-war?traffic_source=rss",
-     "summary": "Artist Bachir Mohamad’s ‘Unfinished Beginnings’ uses 20,000 baby bottles to highlight children affected by war.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T16:33:03+00:00",
-     "also": []
-    },
-    {
-     "title": "African rivals fret over Morocco’s growing football dominance",
-     "link": "https://www.aljazeera.com/sports/2026/11/24/african-rivals-fret-over-moroccos-growing-football-dominance?traffic_source=rss",
-     "summary": "As Morocco enjoys success on and off the pitch, is it benefitting from preferential treatment, or setting an example?",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T16:31:48+00:00",
      "also": []
     },
     {
@@ -329,39 +572,12 @@
      "also": []
     },
     {
-     "title": "Jerusalem Daily: Clash in Israeli parliament",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
-     "summary": "An alleged altercation between Arab Israeli lawmaker Ahmad Tibi and comedian Guy Hochman sparks controversy.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T16:18:11+00:00",
-     "also": []
-    },
-    {
-     "title": "Qatar urges restraint and dialogue amid US-Iran tensions",
-     "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_qatar-urges-restraint-amid-us-iran-tensions-241126?traffic_source=rss",
-     "summary": "Qatar urges the US and Iran to show restraint and pursue dialogue amid rising tensions, says FM spokesman.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T16:11:54+00:00",
-     "also": []
-    },
-    {
      "title": "Irish plan offers Burnham breakthrough on Made in Europe",
      "link": "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
      "summary": "Irish presidency of EU proposes giving UK ‘partner’ status on assembly of cars in possible boost to reset of relations The UK would not have to follow the EU and apply tariffs on Chinese car imports under an Irish proposal that could prove another breakthrough for the prime…",
      "source": "The Guardian",
      "image": "https://i.guim.co.uk/img/media/122e92890ede0f6fbf7db947948a27720083b506/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a7673f4b2d23ab121917c2d964f34192",
      "time": "2026-11-24T16:09:12+00:00",
-     "also": []
-    },
-    {
-     "title": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
-     "link": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
-     "summary": "Follow updates with build-up and team news coverage from our live text commentary stream as Martin Odegaard headlines.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T16:01:23+00:00",
      "also": []
     },
     {
@@ -374,57 +590,12 @@
      "also": []
     },
     {
-     "title": "Palestine Weekly: A night of arson sees Israel ‘Jewish terrorism’ reckoning",
-     "link": "https://www.aljazeera.com/news/2026/11/24/palestine-weekly-a-night-of-arson-sees-israel-jewish-terrorism-reckoning?traffic_source=rss",
-     "summary": "Israeli settler pogroms have continued in the occupied West Bank.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T15:56:07+00:00",
-     "also": []
-    },
-    {
-     "title": "Five women killed every hour globally by partner, relative last year: UN",
-     "link": "https://www.aljazeera.com/news/2026/11/24/five-women-killed-every-hour-globally-by-partner-relative-in-2025-un?traffic_source=rss",
-     "summary": "Home remains the most dangerous place for a woman or girl, 'a pattern that has barely shifted in years', UN Women says.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T15:55:36+00:00",
-     "also": []
-    },
-    {
-     "title": "Nvidia stock cools after Huang’s return-driven surge",
-     "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss",
-     "summary": "Nvidia regains $952bn in market value after Jensen Huang reinstated as CEO after resignation less than two weeks ago.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T15:47:16+00:00",
-     "also": []
-    },
-    {
-     "title": "China Takes Down Shanghai Party Boss Once Seen as Potential Leader",
-     "link": "https://www.wsj.com/world/china/china-takes-down-shanghai-party-boss-once-seen-as-potential-leader-5d6d06e0?mod=rss_worldnews",
-     "summary": "Chen Jining, the party secretary of Shanghai, has been placed under investigation on suspicion of severe violations of party discipline and state laws.",
-     "source": "Wall Street Journal",
-     "image": "https://images.wsj.net/im-73533904",
-     "time": "2026-11-24T15:42:00+00:00",
-     "also": []
-    },
-    {
      "title": "6 Craft Retreats Offer Knitting, Pottery and More for All Skill Levels",
      "link": "https://www.nytimes.com/2026/11/24/travel/crafting-retreat-grandma-hobbies.html",
      "summary": "Interest in crafting hobbies, like knitting or pottery, isn’t new, but several factors in the wake of the pandemic have also made them appealing. Here are some suggestions for hands-on retreats.",
      "source": "New York Times",
      "image": null,
      "time": "2026-11-24T15:37:35+00:00",
-     "also": []
-    },
-    {
-     "title": "Yemen’s Houthis Take Second Swipe at Tallest Tower in Saudi Capital",
-     "link": "https://www.wsj.com/world/middle-east/yemens-houthis-take-second-swipe-at-tallest-tower-in-saudi-capital-11cc288c?mod=rss_worldnews",
-     "summary": "The strike on the Public Investment Fund Tower follows a previous Houthi assault on the building on Thursday.",
-     "source": "Wall Street Journal",
-     "image": "https://images.wsj.net/im-70345756",
-     "time": "2026-11-24T15:36:00+00:00",
      "also": []
     },
     {
@@ -443,24 +614,6 @@
      "source": "Wall Street Journal",
      "image": "https://images.wsj.net/im-68451315",
      "time": "2026-11-24T15:30:00+00:00",
-     "also": []
-    },
-    {
-     "title": "China probes Shanghai party chief Chen Jining over corruption",
-     "link": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
-     "summary": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T15:26:50+00:00",
-     "also": []
-    },
-    {
-     "title": "UK police arrest two after break-in at Prince William’s country residence",
-     "link": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
-     "summary": "The arrests were made at a property on ⁠⁠⁠⁠the royal family's Sandringham estate in Norfolk, eastern England.",
-     "source": "Al Jazeera",
-     "image": null,
-     "time": "2026-11-24T15:19:47+00:00",
      "also": []
     },
     {
@@ -491,38 +644,11 @@
      "also": []
     },
     {
-     "title": "Chinese police contacted members of WeChat group after they discussed Melbourne vigil for HungryPanda rider",
-     "link": "https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb",
-     "summary": "Several members of the group chat set up after the alleged murder of Feng Jianming say they or their parents were called by police from their home towns in China Get our breaking news email, free app or daily news podcast Chinese police have contacted several people who were…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/3588cbd60251b25da3b952a348d3ea005d6f8aaf/89_0_4342_3472/master/4342.jpg?width=140&quality=85&auto=format&fit=max&s=46eedf0fe80e0e5101db61f643157b79",
-     "time": "2026-11-24T14:00:50+00:00",
-     "also": []
-    },
-    {
-     "title": "Guardian Essential poll: Albanese’s disapproval rating hits highest level as problems mount for Labor",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/25/guardian-essential-poll-anthony-albaneses-ai-datacentres-labor-one-nation-coalition",
-     "summary": "Australians also turn against AI datacentres, with nearly half saying they don’t want one near their home Get our daily political email, free app or daily news podcast Anthony Albanese’s approval ratings have nosedived in the latest Guardian Essential poll, with the prime…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/04a2d63ae262fd5fde5dacc710a31435854b852e/912_0_4856_3885/master/4856.jpg?width=140&quality=85&auto=format&fit=max&s=5cc85d604de0bcb26c64dcfa68eca680",
-     "time": "2026-11-24T14:00:49+00:00",
-     "also": []
-    },
-    {
      "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
      "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence",
      "summary": "Trump’s reaction to sensitive information that contradicts his worldview mirrors his conduct towards war with Iran Donald Trump’s unwillingness to heed warnings of suspected Chinese penetration of the tech giant Nvidia follows a pattern of the US president ignoring sensitive…",
      "source": "The Guardian",
      "image": "https://i.guim.co.uk/img/media/515210e29bb0c7d2077263b355c6ce39f3b006d5/243_0_3321_2656/master/3321.jpg?width=140&quality=85&auto=format&fit=max&s=ea01d85bb0c9da02666f01ad83b856b5",
-     "time": "2026-11-24T14:00:48+00:00",
-     "also": []
-    },
-    {
-     "title": "Days out from the Victorian election, nine datacentre projects await approval. What will their fate be?",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
-     "summary": "While parties have come out with policies on where datacentres can be built, not all are clear on whether they apply retrospectively Get our breaking news email, free app or daily news podcast Days out from the Victorian state election, the fate of nine datacentre projects…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ebf80a137710c357384cc02438532169c1f2986a/498_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=3b89e28e5ba5e8144ba48afc19a8cdcb",
      "time": "2026-11-24T14:00:48+00:00",
      "also": []
     },
@@ -550,7 +676,7 @@
      "summary": "As the death toll rose to 26, one rescue worker said that more victims might be found near a stairwell in the building. The police opened a criminal investigation.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-indonesia-fire-02-hwkg/24int-indonesia-fire-02-hwkg-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T13:12:41+00:00",
+     "time": "2026-11-24T13:12:42+00:00",
      "also": []
     },
     {
@@ -581,15 +707,6 @@
      "also": []
     },
     {
-     "title": "Oil Prices Rebound as Shipping Risks Persist",
-     "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-supply-outlook-shipping-risks-7225885e?mod=rss_worldnews",
-     "summary": "Oil prices recovered from initial losses Tuesday as traders weighed persistent threats to energy shipments in the Middle East against expectations of a global supply surplus.",
-     "source": "Wall Street Journal",
-     "image": "https://images.wsj.net/im-71108007",
-     "time": "2026-11-24T12:33:00+00:00",
-     "also": []
-    },
-    {
      "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia",
      "link": "https://www.wsj.com/world/russian-warplanes-trigger-alarm-among-u-s-partners-in-asia-8c2a2157?mod=rss_worldnews",
      "summary": "Military aircraft has skirted or entered the airspace of U.S. allies in Asia several times in recent days, prompting Japan and South Korea to scramble jet fighters.",
@@ -617,15 +734,6 @@
      "also": []
     },
     {
-     "title": "The Gap Between China’s Military Spectacle and Battlefield Reality",
-     "link": "https://www.wsj.com/world/china/the-gap-between-chinas-military-spectacle-and-battlefield-reality-3e32e7ed?mod=rss_worldnews",
-     "summary": "Plus, U.S. chip restrictions deepen China’s AI computing crunch and the shadow network behind Nvidia’s China chip-smuggling scandal resurfaces.",
-     "source": "Wall Street Journal",
-     "image": "https://images.wsj.net/im-74715193",
-     "time": "2026-11-24T11:55:00+00:00",
-     "also": []
-    },
-    {
      "title": "Car bomb tears through Colombian city wounding more than 20",
      "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
@@ -650,15 +758,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
      "time": "2026-11-24T11:10:57+00:00",
-     "also": []
-    },
-    {
-     "title": "Researcher who helped improve melanoma survival rates among winners of top Australian science prize",
-     "link": "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
-     "summary": "Georgina Long and subatomic physicist Anthony Thomas recognised in Prime Minister’s prizes for science Get our daily political email, free app or daily news podcast When Prof Georgina Long was starting out in melanoma treatment and research, “my waiting room would change so…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/9158937167556e9b18af557d3528a389a0ca3a26/990_0_6366_5093/master/6366.jpg?width=140&quality=85&auto=format&fit=max&s=64028f59d2f5d335e6a70b54ae336799",
-     "time": "2026-11-24T11:00:45+00:00",
      "also": []
     },
     {
@@ -734,15 +833,6 @@
      "also": []
     },
     {
-     "title": "South Korea Offers $375,000 Reward to Catch Test Cheaters Using AI",
-     "link": "https://www.wsj.com/world/asia/south-korea-offers-375-000-reward-to-catch-test-cheaters-using-ai-5908db9d?mod=rss_worldnews",
-     "summary": "The move is part of a wave of government measures meant to stymie those looking for a technological shortcut.",
-     "source": "Wall Street Journal",
-     "image": "https://images.wsj.net/im-19575107",
-     "time": "2026-11-24T08:21:00+00:00",
-     "also": []
-    },
-    {
      "title": "What Jensen Huang's return teaches China's Xi about Trump",
      "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
@@ -761,15 +851,6 @@
      "also": []
     },
     {
-     "title": "Pope Francis Diary Excerpts Published in New Book",
-     "link": "https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html",
-     "summary": "Over decades, before and after he became leader of the Roman Catholic Church, Francis recorded occasional entries about his fears and doubts.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-pope-diary01-photo-vhtj/24int-pope-diary01-photo-vhtj-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T06:00:06+00:00",
-     "also": []
-    },
-    {
      "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
      "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
      "summary": "Prime minister Anwar Ibrahim’s announcement comes days after the ICJ found Myanmar had committed genocide against the Rohingya minority Malaysia says it will send thousands of migrants and refugees back to Myanmar, despite acknowledging that many asylum seekers in the country…",
@@ -784,16 +865,7 @@
      "summary": "The Nvidia C.E.O. is back, President Trump is celebrating and markets are rallying.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24int-theworld-nl-top-fkgc/24int-theworld-nl-top-fkgc-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T05:44:37+00:00",
-     "also": []
-    },
-    {
-     "title": "Ebikes, screens and failing manners pose challenge for Dutch cycling culture",
-     "link": "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
-     "summary": "Awareness campaign reminds public ‘traffic is a team sport’ amid less civility and more collisions on roads For decades the Netherlands has been famed for its proud cycling culture, with a network of 23,000 miles of bike paths used by everyone from children under eight to…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/6e7045dd1326a2faaef72fc508e1f8815c31fed0/378_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=0a8022d04403ec7d3c8053837231f388",
-     "time": "2026-11-24T05:00:07+00:00",
+     "time": "2026-11-24T05:44:38+00:00",
      "also": []
     },
     {
@@ -830,15 +902,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cfc/live/c3bcfc70-e6ce-11f1-a9db-c39c38a2d17c.jpg",
      "time": "2026-11-24T00:23:25+00:00",
-     "also": []
-    },
-    {
-     "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
-     "link": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo?at_medium=RSS&at_campaign=rss",
-     "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
-     "source": "BBC News",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2542/live/90680630-e737-11f1-99a1-253766e7ad8b.jpg",
-     "time": "2026-11-24T00:02:15+00:00",
      "also": []
     },
     {
@@ -905,30 +968,12 @@
      "also": []
     },
     {
-     "title": "Over 700,000 Russian Soldiers Have Died in Ukraine, Analysis Indicates",
-     "link": "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-     "summary": "Hacked government data underscores the immense human cost of President Vladimir V. Putin’s war of attrition.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-russia-war-deaths-photo-lhkt/23int-russia-war-deaths-photo-lhkt-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T19:19:23+00:00",
-     "also": []
-    },
-    {
      "title": "First Lady Melania Trump welcomes this year's White House Christmas tree",
      "link": "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo?at_medium=RSS&at_campaign=rss",
      "summary": "The official 2026 White House Christmas tree is an 18-foot fir from Silent Night Evergreens, a farm in Endeavor, Wisconsin.",
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cda1/live/ad61f0f0-e76b-11f1-a094-5fdc692f3e33.jpg",
      "time": "2026-11-23T18:49:19+00:00",
-     "also": []
-    },
-    {
-     "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
-     "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html",
-     "summary": "At least three people were injured. The United Nations has reported a 445 percent increase in drone bombings in the country.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23int-colombia-drone-attack-bgqm/23int-colombia-drone-attack-bgqm-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T18:05:31+00:00",
      "also": []
     },
     {
@@ -968,33 +1013,6 @@
      "also": []
     },
     {
-     "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-     "link": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
-     "summary": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, weeks after MI5 issued a rare public warning to universities…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/8d0b2aa07aef04841b4d35eb7ba1dfe6f5ffc3ad/643_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=7a060dd5be23fe1c2735feab1ab4c211",
-     "time": "2026-11-23T16:42:09+00:00",
-     "also": []
-    },
-    {
-     "title": "COP31 Climate Talks Broke Down. Now What?",
-     "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
-     "summary": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23CLI-COP31-WHAT-NOW-1-fpgh/23CLI-COP31-WHAT-NOW-1-fpgh-mediumSquareAt3X-v2.jpg",
-     "time": "2026-11-23T16:18:49+00:00",
-     "also": []
-    },
-    {
-     "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
-     "link": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
-     "summary": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T15:39:34+00:00",
-     "also": []
-    },
-    {
      "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
      "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
      "summary": "Ukraine’s security service says seven drones were launched from mothership in operation that sank Merkury warship Ukraine has confirmed it deployed naval drones in strikes on two Russian vessels off Libya on Sunday, including one that sank the corvette Merkury, one of Russia’s…",
@@ -1010,15 +1028,6 @@
      "source": "BBC News",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc6/live/7a950f50-e738-11f1-99b6-a35a62fa4264.jpg",
      "time": "2026-11-23T11:34:10+00:00",
-     "also": []
-    },
-    {
-     "title": "Trump administration deported US citizen to Mexico, DoJ admits in court",
-     "link": "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
-     "summary": "Brian Morales García of Texas seeks damages after he was wrongly identified as undocumented in case White House wants dropped The Trump administration recently admitted in federal court that it deported a US citizen to Mexico after American authorities incorrectly concluded he…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/2ebec9cf556286a8031011ce464de8efbbfb1bfa/761_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=34419736e528fcd2e4fcd9c86588c478",
-     "time": "2026-11-23T11:00:56+00:00",
      "also": []
     },
     {
@@ -1056,21 +1065,111 @@
      "image": "https://images.wsj.net/im-84234788",
      "time": "2026-11-22T21:10:00+00:00",
      "also": []
-    },
-    {
-     "title": "Mexican Drug Gangs Have Found a New Cash Cow in Microfinancing",
-     "link": "https://www.wsj.com/world/americas/mexican-drug-gangs-have-found-a-new-cash-cow-in-microfinancing-31a3e07a?mod=rss_worldnews",
-     "summary": "Narcotraffickers are forcibly taking over small lenders and jacking up interest rates to diversify their income.",
-     "source": "Wall Street Journal",
-     "image": "https://images.wsj.net/im-57428690",
-     "time": "2026-11-22T03:00:00+00:00",
-     "also": []
     }
    ]
   },
   "pakistan": {
    "label": "Pakistan",
    "items": [
+    {
+     "title": "A referendum leading where?",
+     "link": "https://www.dawn.com/news/2046935/a-referendum-leading-where",
+     "summary": "IT seems the regime has decided to push ahead with a referendum on the creation of new provinces, setting aside the intense controversy over the matter. The minister for parliamentary affairs had earlier declared that a referendum on the issue “will happen”; the defence…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2023/04/19085329f4eec05.jpg",
+     "time": "2026-11-25T04:00:03+00:00",
+     "also": []
+    },
+    {
+     "title": "Sherry seeks end to impunity for violence against women",
+     "link": "https://www.dawn.com/news/2046872/sherry-seeks-end-to-impunity-for-violence-against-women",
+     "summary": "ISLAMABAD: PPP Vice President Senator Sherry Rehman on Tuesday war­ned that violence against women in the country was not an isolated or private matter, but a systemic crisis undermining equality, justice and the very fabric of society. Speaking on the Inter­national Day for…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/04/3003583483f105d.webp",
+     "time": "2026-11-25T03:46:50+00:00",
+     "also": []
+    },
+    {
+     "title": "Imran asks PTI to reach out to Fazl, other parties",
+     "link": "https://www.dawn.com/news/2046874/imran-asks-pti-to-reach-out-to-fazl-other-parties",
+     "summary": "• Core committee briefed on jailed founder’s instructions to expand political alliance • PPP urges PTI to first prove its role as effective opposition before seeking wider cooperation ISLAMABAD: The PTI’s core committee was informed that incarcerated party founder Imran Khan…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/11/050053472586b05.webp",
+     "time": "2026-11-25T03:31:27+00:00",
+     "also": []
+    },
+    {
+     "title": "Whose life next?",
+     "link": "https://www.dawn.com/news/2046933/whose-life-next",
+     "summary": "THE killing of television anchor Rabia Ahsan in Rawalpindi this month revives a question Pakistan has yet to answer: how can we better protect women from those who threaten them? In August, digital media executive Hina Javed was found murdered. Last year, the killing of…",
+     "source": "Dawn",
+     "image": null,
+     "time": "2026-11-25T03:22:14+00:00",
+     "also": []
+    },
+    {
+     "title": "'Pakistani flag rises into orbit' as Zeeshan Ali makes history aboard China's Shenzhou-24 spacecraft",
+     "link": "https://www.dawn.com/news/2046753/pakistani-flag-rises-into-orbit-as-zeeshan-ali-makes-history-aboard-chinas-shenzhou-24-spacecraft",
+     "summary": "Forty-year-old Zeeshan Ali became the first Pakistani astronaut to enter orbit on Wednesday, after China’s Shenzhou-24 spacecraft entered its preset orbit following liftoff from the Jiuquan Satellite Launch Centre. A Long March 2-F rocket was used for the launch. It took off in…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/11/250439244902490.webp",
+     "time": "2026-11-25T02:50:48+00:00",
+     "also": []
+    },
+    {
+     "title": "Pakistan eyes $1.21 billion disbursement next month",
+     "link": "https://www.dawn.com/news/2046892/pakistan-eyes-121-billion-disbursement-next-month",
+     "summary": "ISLAMABAD: The Exe­cutive Board of the Intern­a­tional Monetary Fund (IMF) is expected to appr­ove on Dec 11 the disbursement of about $1.21 billion to Pakistan under two concurrent program­mes — the $7bn Extended Fund Facility (EFF) and the $1.4bn Resilience and…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2021/08/612458685b135.jpg",
+     "time": "2026-11-25T02:39:27+00:00",
+     "also": []
+    },
+    {
+     "title": "What happens when a bank ducks rules in Pakistan? For Deutsche Bank, perhaps nothing",
+     "link": "https://www.dawn.com/news/2046548/what-happens-when-a-bank-ducks-rules-in-pakistan-for-deutsche-bank-perhaps-nothing",
+     "summary": "In 2018, the world turned its microscope on Pakistan’s financial system. Placed on the Financial Action Task Force’s (FATF) “ gray list ”, the country was thrust into a frantic race to prove it could secure its financial system against the flow of illicit capital. It was a…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/11/23173414c3e6ae4.webp",
+     "time": "2026-11-25T02:00:05+00:00",
+     "also": []
+    },
+    {
+     "title": "Free speech not a licence to cross four red lines: Naqvi",
+     "link": "https://www.dawn.com/news/2046873/free-speech-not-a-licence-to-cross-four-red-lines-naqvi",
+     "summary": "• Says social media platforms acted on just 47pc of CTD complaints • Urges them to act against terrorist groups operating on their networks ISLAMABAD: Interior Minister Mohsin Naqvi on Tuesday asserted that freedom of speech should not become a shield for those who cross “red…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/07/301734080b7d64e.webp",
+     "time": "2026-11-25T01:42:14+00:00",
+     "also": []
+    },
+    {
+     "title": "Five women killed each hour by relatives in 2025: UN",
+     "link": "https://www.dawn.com/news/2046855/five-women-killed-each-hour-by-relatives-in-2025-un",
+     "summary": "UNITED NATIONS: More than 47,000 women and girls, or around five per hour, were killed by relatives around the world in 2025, a figure broadly unchanged from previous years, according to a UN report published on Tuesday. The number of women and girls killed by an intimate…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/11/250829358c8c615.webp",
+     "time": "2026-11-25T01:41:20+00:00",
+     "also": []
+    },
+    {
+     "title": "India stops ‘cockroach’ drive leader from flying to London",
+     "link": "https://www.dawn.com/news/2046856/india-stops-cockroach-drive-leader-from-flying-to-london",
+     "summary": "NEW DELHI: A leader of India’s youth-led “Cockroach” movement has said he was prevented from leaving New Delhi to fly to Britain to deliver talks on the viral group’s protests. Saurav Das, 27, has been at the forefront of the Cockroach Janata Party (CJP), which has amassed…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/11/25075648d1234ae.webp",
+     "time": "2026-11-25T01:41:20+00:00",
+     "also": []
+    },
+    {
+     "title": "Pakistan warns of global energy crisis as conflicts disrupt supplies",
+     "link": "https://www.dawn.com/news/2046853/",
+     "summary": "WASHINGTON: Pakistan has warned that the spread of conflicts is threatening global energy and food supplies, disrupting supply chains and driving up prices, with particularly severe consequences for developing countries. Speaking at a UN Security Council briefing on Monday,…",
+     "source": "Dawn",
+     "image": "https://i.dawn.com/large/2026/11/2508155980eddf4.webp",
+     "time": "2026-11-25T01:41:20+00:00",
+     "also": []
+    },
     {
      "title": "Pakistan Customs seizes nearly 1kg of 'Multan-bound' marijuana in Karachi",
      "link": "https://www.dawn.com/news/2046814/pakistan-customs-seizes-nearly-1kg-of-multan-bound-marijuana-in-karachi",
@@ -1108,15 +1207,6 @@
      "also": []
     },
     {
-     "title": "Islamabad United snap up Matt Henry, Karachi Kings secure Adil Rashid as direct signings for PSL 12",
-     "link": "https://www.dawn.com/news/2046764/islamabad-united-snap-up-matt-henry-karachi-kings-secure-adil-rashid-as-direct-signings-for-psl-12",
-     "summary": "Islamabad United have signed New Zealand fast bowler Matt Henry, while Karachi Kings have secured the services of England leg-spinner Adil Rashid as their marquee direct signings for the 12th edition of the Pakistan Super League (PSL). Multan Sultans have also utilised the…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2021/09/613ed99f03ab7.jpg",
-     "time": "2026-11-24T17:50:48+00:00",
-     "also": []
-    },
-    {
      "title": "Govt reduces diesel price by Rs4 per litre, petrol by Re1 per litre",
      "link": "https://www.dawn.com/news/2046789/govt-reduces-diesel-price-by-rs4-per-litre-petrol-by-re1-per-litre",
      "summary": "& · ● ●",
@@ -1132,15 +1222,6 @@
      "source": "Geo News",
      "image": null,
      "time": "2026-11-24T17:31:00+00:00",
-     "also": []
-    },
-    {
-     "title": "PTI moves IHC for live broadcast of Al-Qadir Trust case hearing",
-     "link": "https://www.dawn.com/news/2046751/pti-moves-ihc-for-live-broadcast-of-al-qadir-trust-case-hearing",
-     "summary": "ISLAMABAD: The Pakistan Tehreek-i-Insaf (PTI) has filed a petition in the Islamabad High Court (IHC), seeking live broadcast of the appeal proceedings in the £190 million Al-Qadir Trust case involving party founder Imran Khan. Imran and his wife, Bushra Bibi, were convicted and…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/241309404d99f5b.jpg",
-     "time": "2026-11-24T17:29:34+00:00",
      "also": []
     },
     {
@@ -1182,6 +1263,51 @@
      "also": []
     },
     {
+     "title": "14 areas picked to boost shrimp farming",
+     "link": "https://tribune.com.pk/story/2642155/14-areas-picked-to-boost-shrimp-farming",
+     "summary": "Working groups finalising proposals to improve value chain",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T16:10:14+00:00",
+     "also": []
+    },
+    {
+     "title": "PSX rises 1,068 points in oil-driven rally",
+     "link": "https://tribune.com.pk/story/2642154/psx-rises-1068-points-in-oil-driven-rally",
+     "summary": "Rebound in global equities, low crude prices lift investor confidence",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T16:10:14+00:00",
+     "also": []
+    },
+    {
+     "title": "FoodAg 2026 generates $658m in expected business",
+     "link": "https://tribune.com.pk/story/2642153/foodag-2026-generates-658m-in-expected-business",
+     "summary": "SMEDA facilitates $70m MoUs with Chinese buyers, 16 other MoUs and an export contract",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T16:10:14+00:00",
+     "also": []
+    },
+    {
+     "title": "Cybersecurity key to achieving Digital Pakistan vision",
+     "link": "https://tribune.com.pk/story/2642152/cybersecurity-key-to-achieving-digital-pakistan-vision",
+     "summary": "Shaza points to 90-day action plan as advances in quantum computing pose challenges",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T16:10:14+00:00",
+     "also": []
+    },
+    {
+     "title": "Planning Commission restructured",
+     "link": "https://tribune.com.pk/story/2642151/planning-commission-restructured",
+     "summary": "Prime minister will be head; provinces excluded again from forum",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T16:10:13+00:00",
+     "also": []
+    },
+    {
      "title": "Reacting to Bilawal's remarks on 'brute majority', a section of legal community wants 26th, 27th Amendments repealed",
      "link": "https://www.dawn.com/news/2046784/reacting-to-bilawals-remarks-on-brute-majority-a-section-of-legal-community-wants-26th-27th-amendments-repealed",
      "summary": "A hundred members of the legal fraternity and civil society have called for the 26th and 27th Constitutional Amendments to be repealed, reacting to remarks by PPP Chairman Bilawal Bhutto-Zardari, whose party had made their enactment possible. The 26th and 27th Amendments,…",
@@ -1200,12 +1326,30 @@
      "also": []
     },
     {
-     "title": "'Carrying hopes of 250m people': Zeeshan Ali to be 'first' Pakistani astronaut in space aboard China’s Shenzhou-24",
-     "link": "https://www.dawn.com/news/2046714/carrying-hopes-of-250m-people-zeeshan-ali-to-be-first-pakistani-astronaut-in-space-aboard-chinas-shenzhou-24",
-     "summary": "Zeeshan Ali was named a crew member of China’s Shenzhou-24 space mission on Tuesday, which is scheduled to launch on November 25, with Ali set to become the first Pakistani to undertake an orbital space mission. Planning Minister Ahsan Iqbal, who is in China, referred to Ali on…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/240937024fec254.webp",
-     "time": "2026-11-24T15:17:40+00:00",
+     "title": "US envoy 'not certain' military aid to Israel will end this year as Trump promised",
+     "link": "https://tribune.com.pk/story/2642144/us-envoy-not-certain-military-aid-to-israel-will-end-this-year-as-trump-promised-1",
+     "summary": "Trump said Israel no longer needed US aid, calling it a political talking point used by critics",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T15:03:03+00:00",
+     "also": []
+    },
+    {
+     "title": "US Army sergeant pleads guilty to selling defence secrets to China",
+     "link": "https://tribune.com.pk/story/2642142/us-army-sergeant-pleads-guilty-to-selling-defense-secrets-to-china",
+     "summary": "The plea comes amid a US crackdown on Chinese espionage networks and agents targeting US troops",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T14:43:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Five Turkish soldiers killed in helicopter crash, ministry says",
+     "link": "https://tribune.com.pk/story/2642130/five-turkish-soldiers-killed-in-helicopter-crash-ministry-says",
+     "summary": "The ministry gave no cause for the AS-532 helicopter crash during a training flight",
+     "source": "Express Tribune",
+     "image": null,
+     "time": "2026-11-24T14:29:41+00:00",
      "also": []
     },
     {
@@ -1215,17 +1359,6 @@
      "source": "Dawn",
      "image": "https://i.dawn.com/large/2019/08/5d57813858783.jpg",
      "time": "2026-11-24T14:14:34+00:00",
-     "also": [
-      "Express Tribune"
-     ]
-    },
-    {
-     "title": "Hours-long road closures around Karachi’s PIDC junction cause traffic congestion",
-     "link": "https://www.dawn.com/news/2046766/hours-long-road-closures-around-karachis-pidc-junction-cause-traffic-congestion",
-     "summary": "KARACHI: Commuters in Karachi’s Saddar area faced traffic congestion on Tuesday after authorities closed some roads around the PIDC junction for a few hours in response to a sit-in call by the Sindh Indus Lawyers Forum (SILF). In an alert issued at 1:16pm, Karachi Traffic…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/2415435728c06d5.webp",
-     "time": "2026-11-24T13:42:36+00:00",
      "also": []
     },
     {
@@ -1238,15 +1371,6 @@
      "also": []
     },
     {
-     "title": "Govt cuts petrol by Re1, diesel by Rs4 for Nov 25",
-     "link": "https://tribune.com.pk/story/2642121/govt-cuts-petrol-by-rs1-diesel-by-rs4-for-nov-25",
-     "summary": "New petrol price is Rs318 while HSD is Rs353",
-     "source": "Express Tribune",
-     "image": null,
-     "time": "2026-11-24T12:46:12+00:00",
-     "also": []
-    },
-    {
      "title": "Sales tax zones being established in Karachi, Lahore, Islamabad and Multan, PM told",
      "link": "https://www.dawn.com/news/2046777/sales-tax-zones-being-established-in-karachi-lahore-islamabad-and-multan-pm-told",
      "summary": "Prime Minister Shehbaz Sharif was informed on Tuesday that separate sales tax zones were being established in the country’s four major taxpayer units — Karachi, Lahore, Islamabad and Multan — to improve collection. According to a statement from the Prime Minister’s Office…",
@@ -1256,39 +1380,12 @@
      "also": []
     },
     {
-     "title": "UN chief warns AI could fuel conflict, calls for urgent action on autonomous weapons",
-     "link": "https://tribune.com.pk/story/2642120/un-chief-warns-ai-could-fuel-conflict-calls-for-urgent-action-on-autonomous-weapons",
-     "summary": "Antonio Guterres says AI could aid peace efforts but warns its growing military use poses serious risks",
-     "source": "Express Tribune",
-     "image": null,
-     "time": "2026-11-24T12:28:24+00:00",
-     "also": []
-    },
-    {
-     "title": "Israeli strikes in Gaza kill 7, including senior security official",
-     "link": "https://www.dawn.com/news/2046778/israeli-strikes-in-gaza-kill-7-including-senior-security-official",
-     "summary": "Israeli airstrikes in Gaza on Tuesday killed seven people, including Hamas’s director of internal security, Palestinian officials in the territory told AFP, despite a ceasefire in place since last year. Israel’s military said it had struck a senior Hamas official. Gaza’s…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/241723056b83ff8.webp",
-     "time": "2026-11-24T12:27:15+00:00",
-     "also": []
-    },
-    {
      "title": "Freedom of speech should not become a shield for those crossing 'red lines', says Naqvi",
      "link": "https://www.dawn.com/news/2046770/freedom-of-speech-should-not-become-a-shield-for-those-crossing-red-lines-says-naqvi",
      "summary": "Interior Minister Mohsin Naqvi on Tuesday asserted that freedom of speech should not become a shield for those who cross “red lines”. He made the remarks while addressing a seminar organised by the Sustainable Development Policy Institute (SDPI). At the outset of his speech,…",
      "source": "Dawn",
      "image": "https://i.dawn.com/large/2026/11/241631464b3067b.webp",
      "time": "2026-11-24T12:09:03+00:00",
-     "also": []
-    },
-    {
-     "title": "Eight killed, seven injured as passenger vehicle plunges into ravine in KP's Torghar",
-     "link": "https://www.dawn.com/news/2046768/eight-killed-seven-injured-as-passenger-vehicle-plunges-into-ravine-in-kps-torghar",
-     "summary": "At least eight people, including two women, were killed and seven others injured on Tuesday when a passenger vehicle plunged into a deep ravine in Khyber Pakhtunkhwa’s Torghar district, Rescue 1122 said. The accident occurred at Kundo Gigianay in Shatal Sira as the vehicle was…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/241532332c19c31.webp",
-     "time": "2026-11-24T11:00:36+00:00",
      "also": []
     },
     {
@@ -1310,57 +1407,12 @@
      "also": []
     },
     {
-     "title": "FBR to set up sales tax zones in Karachi, Lahore, Islamabad, Multan",
-     "link": "https://tribune.com.pk/story/2642109/fbr-to-set-up-sales-tax-zones-in-karachi-lahore-islamabad-multan",
-     "summary": "Tax authority has uncovered Rs24.4b in irregularities during an audit of oil marketing companies’ bonded warehouses",
-     "source": "Express Tribune",
-     "image": null,
-     "time": "2026-11-24T10:00:55+00:00",
-     "also": []
-    },
-    {
      "title": "Speakers call for social media accountability, balanced regulation to curb disinformation",
      "link": "https://tribune.com.pk/story/2642101/speakers-call-for-social-media-accountability-balanced-regulation-to-curb-disinformation",
      "summary": "Experts urge stronger oversight, content moderation to tackle online threats without stifling innovation, free speech",
      "source": "Express Tribune",
      "image": null,
      "time": "2026-11-24T09:19:21+00:00",
-     "also": []
-    },
-    {
-     "title": "PM Shehbaz congratulates CDF Munir on Hall of Fame induction at Malaysia’s National Defence Studies Centre",
-     "link": "https://www.dawn.com/news/2046749/pm-shehbaz-congratulates-cdf-munir-on-hall-of-fame-induction-at-malaysias-national-defence-studies-centre",
-     "summary": "Prime Minister Shehbaz Sharif on Tuesday congratulated Chief of Defence Forces (CDF) and Chief of the Army Staff Field Marshal Asim Munir on his induction into the Hall of Fame at Malaysia’s National Defence Studies Centre. “This distinction also reflects the enduring…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/24123100190fdae.webp",
-     "time": "2026-11-24T09:15:14+00:00",
-     "also": []
-    },
-    {
-     "title": "PM Shehbaz takes notice of provocative statements by cabinet members, urges them to settle differences amicably",
-     "link": "https://www.dawn.com/news/2046754/pm-shehbaz-takes-notice-of-provocative-statements-by-cabinet-members-urges-them-to-settle-differences-amicably",
-     "summary": "ISLAMABAD: Amid rising political tensions, Prime Minister Shehbaz Sharif on Tuesday took notice of provocative statements by the federal cabinet members against each other and directed them to resolve their differences through consultation. The remarks come amid a war of words…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/24132031c7a13b2.webp",
-     "time": "2026-11-24T09:08:30+00:00",
-     "also": []
-    },
-    {
-     "title": "Cricket's saliva ban to stay despite Indian skipper Shubman Gill’s call to overturn rule",
-     "link": "https://www.dawn.com/news/2046748/crickets-saliva-ban-to-stay-despite-indian-skipper-shubman-gills-call-to-overturn-rule",
-     "summary": "The International Cricket Council has no plans to reverse the ban on applying saliva to shine the ball, despite India skipper Shubman Gill’s call to allow the practice again. Gill on Monday said the ban should be revoked to help bowlers get reverse swing, after India’s…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2020/05/5ec371a8533fc.jpg",
-     "time": "2026-11-24T08:44:16+00:00",
-     "also": []
-    },
-    {
-     "title": "Imran wants PTI to expand political alliance, extend outreach to Fazl and other opposition parties, core committee told",
-     "link": "https://www.dawn.com/news/2046742/imran-wants-pti-to-expand-political-alliance-extend-outreach-to-fazl-and-other-opposition-parties-core-committee-told",
-     "summary": "ISLAMABAD: The PTI’s core committee has been informed that incarcerated party founder Imran Khan wanted it to expand its “political alliance” and extend outreach to Jamiat Ulema-i-Islam-Fazl (JUI-F) chief Maulana Fazlur Rehman and other opposition parties. Imran’s instructions…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2026/11/050053472586b05.webp",
-     "time": "2026-11-24T07:58:18+00:00",
      "also": []
     },
     {
@@ -1400,30 +1452,12 @@
      "also": []
     },
     {
-     "title": "Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier",
-     "link": "https://www.dawn.com/news/2046735/sheikh-hasina-seeks-to-return-to-bangladesh-on-december-16-on-state-carrier",
-     "summary": "Ousted Bangladeshi Prime Minister Sheikh Hasina plans to return home from more than two years of exile in India on December 16, her spokesperson told Reuters on Tuesday, though the government said she can only return through extradition. It is the first time Hasina, 79, has set…",
-     "source": "Dawn",
-     "image": "https://i.dawn.com/large/2016/04/5721a6e8d5808.jpg",
-     "time": "2026-11-24T05:49:00+00:00",
-     "also": []
-    },
-    {
      "title": "Khawaja Asif comes out in support of Rana Sanaullah amid political row",
      "link": "https://tribune.com.pk/story/2642066/khawaja-asif-comes-out-in-support-of-rana-sanaullah-amid-political-row",
      "summary": "Says Sanaullah is a 'credible and respected' political worker worthy of greater acknowledgement",
      "source": "Express Tribune",
      "image": null,
      "time": "2026-11-24T05:42:33+00:00",
-     "also": []
-    },
-    {
-     "title": "PSX advances 1,068 points in broad-based rally",
-     "link": "https://tribune.com.pk/story/2642054/kse-100-climbs-1116-points-on-wall-street-rally",
-     "summary": "Wall Street rebound and three-month low oil prices lift investor confidence",
-     "source": "Express Tribune",
-     "image": null,
-     "time": "2026-11-24T03:47:17+00:00",
      "also": []
     },
     {
@@ -1451,24 +1485,6 @@
      "source": "Express Tribune",
      "image": null,
      "time": "2026-11-24T02:04:19+00:00",
-     "also": []
-    },
-    {
-     "title": "Bus and truck collision kills 13 in UAE's Ras Al Khaimah",
-     "link": "https://tribune.com.pk/story/2642036/bus-and-truck-collision-kills-11-in-uaes-ras-al-khaimah",
-     "summary": "Emergency crews launch rescue operations on Al Watan Road as authorities investigate cause of collision",
-     "source": "Express Tribune",
-     "image": null,
-     "time": "2026-11-24T01:59:52+00:00",
-     "also": []
-    },
-    {
-     "title": "Oil prices near three-month lows as rising supply offsets Hormuz threat",
-     "link": "https://tribune.com.pk/story/2642028/oil-prices-near-three-month-lows-as-rising-supply-offsets-hormuz-threat",
-     "summary": "Brent crude futures fall 66 cents, or 0.7%, to $88.71 a barrel",
-     "source": "Express Tribune",
-     "image": null,
-     "time": "2026-11-24T01:07:41+00:00",
      "also": []
     },
     {
@@ -1505,15 +1521,6 @@
      "source": "Geo News",
      "image": null,
      "time": "2026-11-23T18:25:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Provinces denied Rs1.8tr profits",
-     "link": "https://tribune.com.pk/story/2641938/provinces-denied-rs18tr-profits",
-     "summary": "Senate panel reveals Punjab holds 66% of grade-22 federal posts against quota",
-     "source": "Express Tribune",
-     "image": null,
-     "time": "2026-11-23T16:55:41+00:00",
      "also": []
     },
     {
@@ -1630,21 +1637,462 @@
    "label": "Finance",
    "items": [
     {
+     "title": "Martha Firestone Ford, Owner of Detroit Lions, Dies at 101",
+     "link": "https://www.nytimes.com/2026/11/24/business/martha-firestone-ford-dead.html",
+     "summary": "Mrs. Ford, who took over the team after the 2014 death of her husband, William Clay Ford Sr., was one of a handful of female owners in the N.F.L.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2021/02/22/obituaries/Ford-01/merlin_184116561_86296d93-61d7-42f1-a351-868f49df8338-mediumSquareAt3X.jpg",
+     "time": "2026-11-25T03:52:08+00:00",
+     "also": []
+    },
+    {
+     "title": "US attorney general dodges questions about Nvidia investigation",
+     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+     "time": "2026-11-25T03:44:07+00:00",
+     "also": []
+    },
+    {
+     "title": "These Charts Show How Fed Up Americans Are With the Cost of Streaming",
+     "link": "https://www.wsj.com/business/media/these-charts-show-how-fed-up-americans-are-with-the-cost-of-streaming-133a63ca?mod=pls_whats_news_us_business_f",
+     "summary": "Subscription growth has plateaued in the U.S., and viewers are opting for cheaper options.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-86621079",
+     "time": "2026-11-25T03:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "summary": "The verdict follows a months-long trial in New York.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+     "time": "2026-11-25T02:59:27+00:00",
+     "also": []
+    },
+    {
+     "title": "Asian Stocks Mostly Lower on AI Doubts, Tariff Jitters",
+     "link": "https://www.wsj.com/finance/stocks/asian-stocks-mostly-lower-on-ai-doubts-tariff-jitters-a0da3389?mod=rss_markets_main",
+     "summary": "Relief from Jensen Huang’s Nvidia return waned and doubts about the artificial-intelligence trade crept in.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-20962071",
+     "time": "2026-11-25T02:53:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Pakistan eyes $1.21bn IMF disbursement next month",
+     "link": "https://www.dawn.com/news/2046949/pakistan-eyes-121bn-imf-disbursement-next-month",
+     "summary": "https://www.dawn.com/news/2046892",
+     "source": "Dawn Business",
+     "image": "https://i.dawn.com/large/2021/08/612458685b135.jpg",
+     "time": "2026-11-25T02:39:48+00:00",
+     "also": []
+    },
+    {
+     "title": "Worse Than the Dot-Com Crash: What an AI Bust Could Mean for the Economy",
+     "link": "https://www.wsj.com/economy/worse-than-the-dot-com-crash-what-an-ai-bust-could-mean-for-the-economy-2a0e5ab3?mod=rss_markets_main",
+     "summary": "The U.S. economy would take a painful hit, but the magnitude of the fallout remains a live debate among economists.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-75111130",
+     "time": "2026-11-25T02:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "The Deadly Problem the Car Industry Can’t Solve: Holdouts Who Won’t Buckle Up",
+     "link": "https://www.wsj.com/business/autos/seat-belt-use-car-crash-fatalities-141a7f9a?mod=pls_whats_news_us_business_f",
+     "summary": "Despite awareness campaigns and new tech, carmakers and regulators can’t get everyone to use seat belts—a factor in 10,000 crash deaths a year.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-73100472",
+     "time": "2026-11-25T02:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "When Do China’s Look-Alike SUVs Become Illegal Copycats?",
+     "link": "https://www.wsj.com/business/autos/when-do-chinas-look-alike-suvs-become-illegal-copycats-65498462?mod=pls_whats_news_us_business_f",
+     "summary": "Jaguar Land Rover is testing whether European carmakers can use intellectual-property laws to protect their home turf from Chinese rivals.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-35561079",
+     "time": "2026-11-25T02:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Jensen Huang’s Vision for the New Nvidia Is a Lot Like the Old One",
+     "link": "https://www.wsj.com/tech/ai/jensen-huangs-vision-for-the-new-nvidia-is-a-lot-like-the-old-one-d0d4abc3?mod=pls_whats_news_us_business_f",
+     "summary": "As Nvidia’s co-founder resumes control, the company is working to convince the market it’s business as usual while facing fresh challenges.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-47059219",
+     "time": "2026-11-25T02:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "This Century-Old NYC Grocery Store Is Closing. Even Its Famous Customers Couldn’t Save It.",
+     "link": "https://www.wsj.com/business/retail/this-century-old-nyc-grocery-store-is-closing-even-its-famous-customers-couldnt-save-it-efdfb1ce?mod=pls_whats_news_us_business_f",
+     "summary": "Zingone Bros. plans to close its doors at the end of this month after nearly a century selling provisions and connecting neighbors.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-69179874",
+     "time": "2026-11-25T01:30:00+00:00",
+     "also": []
+    },
+    {
+     "title": "DealBook Summit 2026: It’s Time to Fix Health Care",
+     "link": "https://www.nytimes.com/2026/11/24/business/dealbook/health-care-task-force.html",
+     "summary": "Experts said problems of cost, trust and dysfunction had reached crisis levels, but voters could be the impetus to force change.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-health-taskforce-cvqw/25sp-dealbook-health-taskforce-cvqw-mediumSquareAt3X.jpg",
+     "time": "2026-11-25T01:24:19+00:00",
+     "also": []
+    },
+    {
+     "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
+     "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
+     "summary": "Jensen Huang's return as Nvidia CEO demonstrates that the U.S.-China artificial intelligence race is not just about semiconductors, but tech talent too.",
+     "source": "CNBC",
+     "image": null,
+     "time": "2026-11-25T01:13:56+00:00",
+     "also": []
+    },
+    {
+     "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+     "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+     "summary": "The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+     "time": "2026-11-25T01:03:05+00:00",
+     "also": []
+    },
+    {
+     "title": "The Friendship Breakup That Led to Bob Iger’s Biggest Boardroom Fight",
+     "link": "https://www.wsj.com/business/media/disney-iger-perlmutter-house-of-mouse-robbie-whelan-book-59f658f9?mod=pls_whats_news_us_business_f",
+     "summary": "In his new book “House of Mouse,” WSJ reporter Robbie Whelan reveals how the longtime Disney CEO and Marvel chairman Ike Perlmutter went from confidants to bitter enemies.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-85714841",
+     "time": "2026-11-25T01:00:00+00:00",
+     "also": []
+    },
+    {
+     "title": "US preparing to unveil plan for new tariffs on global trading partners",
+     "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+     "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+     "time": "2026-11-25T00:38:01+00:00",
+     "also": []
+    },
+    {
+     "title": "Why tiny cars are taking off across Europe",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+     "time": "2026-11-25T00:34:05+00:00",
+     "also": []
+    },
+    {
+     "title": "What will the energy cap changes mean for my bills?",
+     "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+     "summary": "Regulator Ofgem is raising the cap affecting the energy bills of millions of households.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
+     "time": "2026-11-25T00:33:25+00:00",
+     "also": []
+    },
+    {
+     "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+     "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+     "summary": "The BBC speaks to three people about steps they take to keep their energy bills under control.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
+     "time": "2026-11-25T00:30:52+00:00",
+     "also": []
+    },
+    {
+     "title": "Households braced for soaring energy bills with new price cap to be announced",
+     "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+     "summary": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
+     "time": "2026-11-25T00:29:58+00:00",
+     "also": []
+    },
+    {
+     "title": "Nikkei Falls 2.8%, Dragged by Chip-Related Stocks",
+     "link": "https://www.wsj.com/finance/stocks/nikkei-falls-2-8-dragged-by-chip-related-stocks-79ef7a34?mod=rss_markets_main",
+     "summary": "Japanese stocks were lower following Tuesday’s sharp gains as initial enthusiasm over Jensen Huang’s reinstatement as the Nvidia chief waned.",
+     "source": "WSJ Markets",
+     "image": null,
+     "time": "2026-11-25T00:21:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+     "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+     "summary": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T23:27:37+00:00",
+     "also": []
+    },
+    {
+     "title": "‘Carthage Resident Al Gore’ Buys His Hometown Tennessee Newspaper",
+     "link": "https://www.nytimes.com/2026/11/24/business/media/al-gore-newspaper-carthage-courier.html",
+     "summary": "The Carthage Courier announced this week that the former vice president was buying the weekly paper, which has been publishing since 1913.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24xp-gore-newpaper-qptl/24xp-gore-newpaper-qptl-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T23:06:01+00:00",
+     "also": []
+    },
+    {
+     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
+     "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
+     "summary": "The product, the first one beyond event contracts, was introduced in May.",
+     "source": "CNBC",
+     "image": null,
+     "time": "2026-11-24T23:03:24+00:00",
+     "also": []
+    },
+    {
+     "title": "DealBook Summit 2026: The Cost of Being Pragmatic in a Chaotic World",
+     "link": "https://www.nytimes.com/2026/11/24/business/dealbook/world-chaos-pragmatism.html",
+     "summary": "At the summit marking DealBook’s 25th year, business leaders explored the dangers of mistrust in turbulent times.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-cover-web/25sp-dealbook-cover-web-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T23:03:18+00:00",
+     "also": []
+    },
+    {
+     "title": "DealBook Summit 2026: Help Wanted to Succeed in an A.I. World",
+     "link": "https://www.nytimes.com/2026/11/24/business/dealbook/work-jobs-task-force.html",
+     "summary": "While young people are facing daunting challenges in the labor market, there are ways to improve the chance of landing a good job.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-work-taskforce-pqtg/25sp-dealbook-work-taskforce-pqtg-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T23:01:20+00:00",
+     "also": []
+    },
+    {
+     "title": "DealBook Summit 2026: After the Upheaval From the Midterm Elections, Who Has the Edge in 2028?",
+     "link": "https://www.nytimes.com/2026/11/24/business/dealbook/midterm-elections-task-force.html",
+     "summary": "Are the Democrats’ gains in the midterm elections lasting? Or just another swing of the political pendulum?",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-elections-taskforce-2-fghl/25sp-dealbook-elections-taskforce-2-fghl-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T23:00:25+00:00",
+     "also": []
+    },
+    {
+     "title": "DealBook Summit 2026: Rein in A.I., but Don’t Pause It",
+     "link": "https://www.nytimes.com/2026/11/24/business/dealbook/ai-task-force.html",
+     "summary": "A panel of experts said protections on artificial intelligence could be adopted without stifling the technology’s development.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-ai-taskforce-cgtj/25sp-dealbook-ai-taskforce-cgtj-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T22:59:27+00:00",
+     "also": []
+    },
+    {
+     "title": "DealBook Summit 2026: Groundbreakers Tell What Is On Their Minds",
+     "link": "https://www.nytimes.com/2026/11/24/business/dealbook/dealbook-summit-groundbreakers.html",
+     "summary": "Leaders from a range of disciplines who led talks at the summit about global issues responded to questions in advance. Their answers have been lightly edited.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-groundbreakers-3-tklf/25sp-dealbook-groundbreakers-3-tklf-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T22:57:53+00:00",
+     "also": []
+    },
+    {
+     "title": "25 Years of DealBook Moments",
+     "link": "https://www.nytimes.com/2026/11/24/business/dealbook/25-years-photographs-moments.html",
+     "summary": "These photographs are drawn from events since DealBook began publishing that have left an indelible mark on business, policy and culture. We’re still feeling their ripples today.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25sp-dealbook-moments-08-cbtj/25sp-dealbook-moments-08-cbtj-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T22:56:21+00:00",
+     "also": []
+    },
+    {
+     "title": "Jensen Huang Apologized to Nvidia Staff in Company Meeting",
+     "link": "https://www.wsj.com/business/jensen-huang-apologized-to-nvidia-staff-in-company-meeting-c798dfba?mod=pls_whats_news_us_business_f",
+     "summary": "Plus, the Pentagon is in talks with GM and Ford to mass produce military drones, and the U.S. is preparing to raise tariffs on China and dozens of other countries.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-14693717",
+     "time": "2026-11-24T22:32:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Urban Outfitters Posts Higher Profit, But Comparable-Store-Sales Growth Slows",
+     "link": "https://www.wsj.com/business/retail/urban-outfitters-posts-higher-profit-but-comparable-store-sales-growth-slows-c050ff18?mod=pls_whats_news_us_business_f",
+     "summary": "The apparel retailer said quarterly retail segment same-store sales rose 4.4%, compared with 8% growth a year earlier.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-68925063",
+     "time": "2026-11-24T22:14:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Autodesk Boosts Guidance as Construction Spending Drives Revenue",
+     "link": "https://www.wsj.com/business/earnings/autodesk-boosts-guidance-as-construction-spending-drives-revenue-fc3ec140?mod=pls_whats_news_us_business_f",
+     "summary": "The company reported a fiscal third-quarter profit of $563 million, boosted by infrastructure and construction spending across a range of end markets.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-936095",
+     "time": "2026-11-24T22:13:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Anthropic Had the Biggest IPO Ever. The Trade Is Already Unraveling.",
+     "link": "https://www.wsj.com/finance/stocks/anthropic-had-the-biggest-ipo-ever-the-trade-is-already-unraveling-f971d7c5?mod=rss_markets_main",
+     "summary": "The Claude model developer fell below its offering price on Tuesday, extending its slide to three straight sessions.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-29301151",
+     "time": "2026-11-24T22:07:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Energy & Utilities Roundup: Market Talk",
+     "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
+     "summary": "Find insight on oil futures, Oryx Midstream Services, Var Energi and more in the latest Market Talks covering Energy and Utilities.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-02960527",
+     "time": "2026-11-24T21:59:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Basic Materials Roundup: Market Talk",
+     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
+     "summary": "Find insight on BHP, Antofagasta, ALS and more in the latest Market Talks covering Basic Materials.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-12097522",
+     "time": "2026-11-24T21:58:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Financial Services Roundup: Market Talk",
+     "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
+     "summary": "Find insight on U.S. spot bitcoin ETFs, Canadian banks, Spanish banks and more in the latest Market Talks covering Financial Services.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-03838137",
+     "time": "2026-11-24T21:56:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Venezuela Reveals an Eye-Popping Debt Load of $237 Billion",
+     "link": "https://www.wsj.com/world/americas/venezuela-reveals-an-eye-popping-debt-load-of-237-billion-16bddcde?mod=rss_markets_main",
+     "summary": "The higher-than-expected figure underscores the challenges faced by the U.S.-backed interim government.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-15932570",
+     "time": "2026-11-24T21:55:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Auto & Transport Roundup: Market Talk",
+     "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
+     "summary": "Find insight on Linamar, HPE, Volkswagen and more in the latest Market Talks covering Auto and Transport.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-19513536",
+     "time": "2026-11-24T21:55:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
+     "link": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
+     "summary": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T21:54:50+00:00",
+     "also": []
+    },
+    {
+     "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+     "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
+     "summary": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-52991838",
+     "time": "2026-11-24T21:53:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Tech, Media & Telecom Roundup: Market Talk",
+     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
+     "summary": "Find insight on Dell Technologies, the AI buildout, Grand Theft Auto and more in the latest Market Talks covering Technology, Media and Telecom.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-68827432",
+     "time": "2026-11-24T21:53:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Workday Raises Full-Year Subscription Outlook After Sales Rise",
+     "link": "https://www.wsj.com/business/earnings/workday-raises-full-year-subscription-outlook-after-sales-rise-625a54e3?mod=pls_whats_news_us_business_f",
+     "summary": "The human-resources platform raised its full-year subscription revenue outlook to $9.96 billion, up from its prior range of $9.94 billion to $9.95 billion.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-82832760",
+     "time": "2026-11-24T21:32:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Nvidia’s Relief Rally Stalls",
+     "link": "https://www.wsj.com/finance/stocks/nvidias-relief-rally-stalls-a9455613?mod=rss_markets_main",
+     "summary": "Plus, Anthropic dips below its IPO price, and the investors who won—and lost—in the Nvidia saga.",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-00567119",
+     "time": "2026-11-24T21:23:00+00:00",
+     "also": []
+    },
+    {
+     "title": "HP Offers ‘Prudent’ Guidance Amid Rising Memory Costs",
+     "link": "https://www.wsj.com/business/earnings/hp-offers-prudent-guidance-amid-rising-memory-costs-37c67b9d?mod=pls_whats_news_us_business_f",
+     "summary": "The company posted a profit of $769 million in the fiscal fourth quarter and said it is taking a conservative approach to guidance amid high memory and storage costs.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-131128",
+     "time": "2026-11-24T21:23:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Dell Lifts Outlook as Revenue Doubles on Server Demand",
+     "link": "https://www.wsj.com/business/earnings/dell-lifts-outlook-as-revenue-doubles-on-server-demand-40c14b0b?mod=pls_whats_news_us_business_f",
+     "summary": "The company also said its board approved a $25 billion expansion to its existing stock buyback program.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-00887940",
+     "time": "2026-11-24T21:19:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
+     "link": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
+     "summary": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
+     "source": "New York Times",
+     "image": null,
+     "time": "2026-11-24T21:18:42+00:00",
+     "also": []
+    },
+    {
+     "title": "Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service",
+     "link": "https://www.wsj.com/business/retail/shein-to-pay-100-million-to-settle-ftc-claims-of-unfair-customer-service-1d294269?mod=pls_whats_news_us_business_f",
+     "summary": "Shein Global Holdings agreed to pay $100 million to resolve Federal Trade Commission claims that the fast-fashion retailer engaged in unfair customer-service practices.",
+     "source": "WSJ Business",
+     "image": "https://images.wsj.net/im-22225391",
+     "time": "2026-11-24T21:13:00+00:00",
+     "also": []
+    },
+    {
+     "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
+     "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
+     "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T21:12:54+00:00",
+     "also": []
+    },
+    {
+     "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
+     "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
+     "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
+     "source": "CNBC",
+     "image": null,
+     "time": "2026-11-24T20:45:57+00:00",
+     "also": []
+    },
+    {
      "title": "Will I get the £100 energy payment and when will I receive it?",
      "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
      "summary": "Here is what you need to know about the payment that millions will receive from January.",
      "source": "BBC Business",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
      "time": "2026-11-24T20:16:24+00:00",
-     "also": []
-    },
-    {
-     "title": "Huang Tells Staff He Is in Therapy, Apologizes in Nvidia Town Hall",
-     "link": "https://www.wsj.com/tech/huang-tells-staff-he-is-in-therapy-apologizes-in-nvidia-town-hall-b79647f0?mod=pls_whats_news_us_business_f",
-     "summary": "The Nvidia co-founder thanked the Trump administration while addressing staff the day after he was reinstated as CEO.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-14693717",
-     "time": "2026-11-24T20:09:00+00:00",
      "also": []
     },
     {
@@ -1662,7 +2110,7 @@
      "summary": "Presidents before him have bailed out companies in times of national crisis. Mr. Trump went further: He staked the fortunes of the United States on those of a favored chief executive.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24Biz-nvidia-Trump-01-vqpj/24Biz-nvidia-Trump-01-vqpj-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T19:54:58+00:00",
+     "time": "2026-11-24T19:54:59+00:00",
      "also": []
     },
     {
@@ -1672,15 +2120,6 @@
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24db-huang-lead-hmbg/24db-huang-lead-hmbg-mediumSquareAt3X.jpg",
      "time": "2026-11-24T19:36:06+00:00",
-     "also": []
-    },
-    {
-     "title": "Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
-     "link": "https://www.wsj.com/finance/stocks/nasdaq-futures-fall-as-questions-linger-over-ai-trade-68ba6d71?mod=rss_markets_main",
-     "summary": "Tech stocks stumbled again, as fears around the AI trade crept back in a day after Jensen Huang’s return at Nvidia sparked the best day for U.S. stocks since April 2025.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-89305301",
-     "time": "2026-11-24T19:32:00+00:00",
      "also": []
     },
     {
@@ -1699,51 +2138,6 @@
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/23/business/00alice-huang/00alice-huang-mediumSquareAt3X.jpg",
      "time": "2026-11-24T19:19:59+00:00",
-     "also": []
-    },
-    {
-     "title": "Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally",
-     "link": "https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html",
-     "summary": "Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-markets-zjwk/24biz-markets-zjwk-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T19:03:24+00:00",
-     "also": []
-    },
-    {
-     "title": "US attorney general dodges questions about Nvidia investigation",
-     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-     "time": "2026-11-24T18:55:59+00:00",
-     "also": []
-    },
-    {
-     "title": "U.S. Treasury Auction of 5-Year Note Shows Slightly Soft Demand",
-     "link": "https://www.wsj.com/finance/jgb-futures-rise-buoyed-by-decline-in-crude-oil-prices-deebd8c8?mod=rss_markets_main",
-     "summary": "The U.S. Treasury’s auction of 5-year notes showed signs of slightly softer demand.",
-     "source": "WSJ Markets",
-     "image": null,
-     "time": "2026-11-24T18:38:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Kalshi daily volume of ‘perps’ trading begins to top its prediction markets",
-     "link": "https://www.cnbc.com/2026/11/24/kalshi-perps-volume-prediction-markets.html",
-     "summary": "The product, the first one beyond event contracts, was introduced in May.",
-     "source": "CNBC",
-     "image": null,
-     "time": "2026-11-24T18:34:55+00:00",
-     "also": []
-    },
-    {
-     "title": "Utah drops criminal charges against Kalshi founders after company suspended operations in state",
-     "link": "https://www.cnbc.com/2026/11/24/utah-drops-charges-against-kalshi-after-it-halted-operations-in-state.html",
-     "summary": "Co-founders of the prediction market platform were slated to appear in a state district court in December.",
-     "source": "CNBC",
-     "image": null,
-     "time": "2026-11-24T18:28:33+00:00",
      "also": []
     },
     {
@@ -1783,104 +2177,12 @@
      "also": []
     },
     {
-     "title": "Basic Materials Roundup: Market Talk",
-     "link": "https://www.wsj.com/business/basic-materials-roundup-market-talk-90784e85?mod=rss_markets_main",
-     "summary": "Find insight on BHP, Antofagasta, ALS and more in the latest Market Talks covering Basic Materials.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-12097522",
-     "time": "2026-11-24T17:30:00+00:00",
-     "also": [
-      "WSJ Business"
-     ]
-    },
-    {
-     "title": "Health Care Roundup: Market Talk",
-     "link": "https://www.wsj.com/business/health-care-roundup-market-talk-0f197179?mod=rss_markets_main",
-     "summary": "Find insight on Sanofi, Insmed, Kyowa Kirin and more in the latest Market Talks covering Health Care.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-89689838",
-     "time": "2026-11-24T17:28:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Energy & Utilities Roundup: Market Talk",
-     "link": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-762271f0?mod=rss_markets_main",
-     "summary": "Find insight on oil futures, Var Energi and more in the latest Market Talks covering Energy and Utilities.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-02960527",
-     "time": "2026-11-24T17:27:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Financial Services Roundup: Market Talk",
-     "link": "https://www.wsj.com/business/financial-services-roundup-market-talk-2d65d6bc?mod=rss_markets_main",
-     "summary": "Find insight on Canadian banks, Spanish banks and more in the latest Market Talks covering Financial Services.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-03838137",
-     "time": "2026-11-24T17:24:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Tech, Media & Telecom Roundup: Market Talk",
-     "link": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-925cd40f?mod=rss_markets_main",
-     "summary": "Find insight on Anthropic, crypto, Analog Devices and more in the latest Market Talks covering Technology, Media and Telecom.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-68827432",
-     "time": "2026-11-24T17:24:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Auto & Transport Roundup: Market Talk",
-     "link": "https://www.wsj.com/business/auto-transport-roundup-market-talk-3c2ab9a4?mod=rss_markets_main",
-     "summary": "Find insight on Linamar, Volkswagen and more in the latest Market Talks covering Auto and Transport.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-19513536",
-     "time": "2026-11-24T17:22:00+00:00",
-     "also": []
-    },
-    {
      "title": "Govt selects consortium of 3 foreign banks for $500m finance facility backed by MIGA",
      "link": "https://www.dawn.com/news/2046795/govt-selects-consortium-of-3-foreign-banks-for-500m-finance-facility-backed-by-miga",
      "summary": "ISLAMABAD: The government on Tuesday selected a consortium of three foreign banks to arrange a $500 million trade finance facility, backed by the Multilateral Investment Guarantee Agency (MIGA), a member of the World Bank Group. “Following a competitive selection process and…",
      "source": "Dawn Business",
      "image": "https://i.dawn.com/large/2026/11/24203216ac114eb.webp",
      "time": "2026-11-24T16:12:42+00:00",
-     "also": []
-    },
-    {
-     "title": "Black Friday Deals Starting Earlier This Year? It’s Not Just in Your Head.",
-     "link": "https://www.nytimes.com/2026/11/24/style/black-friday-sales-2026-earlier.html",
-     "summary": "Some shoppers have “Black Friday fatigue” from sales that began as early as the first week in November.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/26/multimedia/24BLACK-FRIDAY-FOREVER-01-gjwz/24BLACK-FRIDAY-FOREVER-01-gjwz-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T16:07:27+00:00",
-     "also": []
-    },
-    {
-     "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
-     "link": "https://www.wsj.com/finance/stocks/the-retail-investors-who-believed-nvidias-boardand-got-burned-by-its-u-turn-05349a63?mod=rss_markets_main",
-     "summary": "Nvidia’s board said as recently as last week that Jensen Huang wouldn’t return as CEO. Some investors sold their shares.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-52991838",
-     "time": "2026-11-24T16:01:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Luxury Water Is Luring Drinkers Who Have Lost Their Thirst for Alcohol",
-     "link": "https://www.nytimes.com/2026/11/24/business/luxury-water-fiji-evian-voss.html",
-     "summary": "A host of newcomers are pushing into the high-end water space, which has long been occupied by brands like Fiji, Evian and Voss.",
-     "source": "New York Times",
-     "image": null,
-     "time": "2026-11-24T15:46:23+00:00",
-     "also": []
-    },
-    {
-     "title": "With Jensen Huang’s Return as C.E.O., Trump Effectively Overrode Nvidia’s Board",
-     "link": "https://www.nytimes.com/2026/11/23/technology/jensen-huang-nvidia-board-trump.html",
-     "summary": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T15:40:13+00:00",
      "also": []
     },
     {
@@ -1902,15 +2204,6 @@
      "also": []
     },
     {
-     "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
-     "link": "https://www.wsj.com/tech/amazon-leo-starlink-rival-5bb0e6a0?mod=pls_whats_news_us_business_f",
-     "summary": "There is plenty of demand for a Starlink alternative, but Amazon’s satellite arm, known as Leo, is facing setbacks.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-26745825",
-     "time": "2026-11-24T14:22:00+00:00",
-     "also": []
-    },
-    {
      "title": "Stripe’s Valuation Set to Top $200 Billion in Latest Investor Talks",
      "link": "https://www.wsj.com/business/stripes-valuation-set-to-top-200-billion-in-latest-investor-talks-122c9027?mod=pls_whats_news_us_business_f",
      "summary": "A tender offer for employees’ shares would likely be completed early next year.",
@@ -1920,21 +2213,12 @@
      "also": []
     },
     {
-     "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal",
-     "link": "https://www.nytimes.com/2026/11/23/business/trump-administration-megaspeed-trade-blacklist-nvidia.html",
-     "summary": "The administration added Megaspeed to the entity list, a trade blacklist, after weeks of sparring among top officials on the decision.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-megaspeed-wltb/23nvidia-megaspeed-wltb-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T14:17:40+00:00",
-     "also": []
-    },
-    {
      "title": "Top Aviation Officials Were Traveling When F.A.A.’s Nationwide Ground Stop Halted Flights",
      "link": "https://www.nytimes.com/2026/11/24/business/l3harris-ground-stop-aviation.html",
      "summary": "Transportation administrators and some key executives for the contractor handling an equipment upgrade were in transit on Nov. 13, highlighting that Friday can be a bad day for something to go wrong.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/22/us/22dc-l3harris1/22dc-l3harris1-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T14:10:03+00:00",
+     "time": "2026-11-24T14:10:04+00:00",
      "also": []
     },
     {
@@ -2001,84 +2285,12 @@
      "also": []
     },
     {
-     "title": "The Morning Risk Report: U.S. Chip Restrictions Amplify Shell Company Headaches in AI Ecosystem",
-     "link": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-u-s-chip-restrictions-amplify-shell-company-headaches-in-ai-ecosystem-fd7a749d?mod=pls_whats_news_us_business_f",
-     "summary": "Plus: Nvidia reinstates Jensen Huang as CEO and new study raises Bayer cancer link again",
-     "source": "WSJ Business",
-     "image": "https://riskjournal-images.dowjones.com/im-73721955",
-     "time": "2026-11-24T12:36:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Burlington Stores Cuts Outlook as Quarterly Sales Underwhelm",
-     "link": "https://www.wsj.com/business/retail/burlington-stores-cuts-outlook-as-quarterly-sales-underwhelm-794f958d?mod=pls_whats_news_us_business_f",
-     "summary": "Burlington Stores reported what Chief Executive Michael O’Sullivan called disappointing third-quarter results, prompting the company to cut its outlook for the year.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-610438",
-     "time": "2026-11-24T12:36:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Medtronic’s Sales Growth Slows Despite Broad-Based Gains",
-     "link": "https://www.wsj.com/business/earnings/medtronics-sales-growth-slows-despite-broad-based-gains-9ef7b88a?mod=pls_whats_news_us_business_f",
-     "summary": "Medtronic’s sales growth slowed in the fiscal second quarter despite gains across its cardiovascular, neuroscience and medical-surgical portfolios.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-82216510",
-     "time": "2026-11-24T12:27:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Dollar Tree Lifts Outlook as Quarterly Sales Rise",
-     "link": "https://www.wsj.com/business/retail/dollar-tree-lifts-outlook-as-quarterly-sales-rise-80814dd2?mod=pls_whats_news_us_business_f",
-     "summary": "Dollar Tree raised its full-year outlook and said sales climbed in the recent quarter, as inflation-weary shoppers continue to flock to its stores in search of value.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-55973692",
-     "time": "2026-11-24T12:09:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Best Buy Lifts Outlook as Profit, Revenue Rise",
-     "link": "https://www.wsj.com/business/retail/best-buy-lifts-outlook-as-profit-revenue-rise-cd86654c?mod=pls_whats_news_us_business_f",
-     "summary": "Best Buy boosted its full-year outlook and notched higher profit and revenue in the recent quarter, as the company scooped up market share and grew several key categories.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-68276849",
-     "time": "2026-11-24T12:08:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Xiaomi’s Profit Continues to Fall Amid Weaker Revenue Across Businesses",
-     "link": "https://www.wsj.com/business/earnings/xiaomis-profit-continues-to-fall-amid-weaker-revenue-across-businesses-791bebb0?mod=pls_whats_news_us_business_f",
-     "summary": "Net profit slumped 68% as the Beijing-based company reported less demand for smartphones, home appliances and EVs.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-09865176",
-     "time": "2026-11-24T12:06:00+00:00",
-     "also": []
-    },
-    {
      "title": "These Technical Measures Warned of Stock Market Whiplash",
      "link": "https://www.wsj.com/finance/stocks/these-technical-measures-warned-of-stock-market-whiplash-33fdca3d?mod=rss_markets_main",
      "summary": "Plus, the Trillion Dollar Man",
      "source": "WSJ Markets",
      "image": "https://images.wsj.net/im-99352696",
      "time": "2026-11-24T11:10:00+00:00",
-     "also": []
-    },
-    {
-     "title": "AI Selloff a Realignment of Expectations, Not Broken Investment Cycle",
-     "link": "https://www.wsj.com/finance/stocks/nikkei-rises-2-7-led-by-chip-metals-stocks-82c1bb9d?mod=rss_markets_main",
-     "summary": "Julius Baer said the recent selloff in the AI trade was a realignment of expectations and valuations, rather than an indication that the investment cycle is fundamentally broken.",
-     "source": "WSJ Markets",
-     "image": null,
-     "time": "2026-11-24T11:04:00+00:00",
-     "also": []
-    },
-    {
-     "title": "After Jensen Huang’s Return, Where Does Corporate Governance Go?",
-     "link": "https://www.wsj.com/business/after-jensen-huangs-return-where-does-corporate-governance-go-8849b43c?mod=pls_whats_news_us_business_f",
-     "summary": "",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-57128983",
-     "time": "2026-11-24T10:55:00+00:00",
      "also": []
     },
     {
@@ -2154,21 +2366,21 @@
      "also": []
     },
     {
+     "title": "Stock Market News, Nov. 24, 2026: Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump",
+     "link": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-24-2026?mod=rss_markets_main",
+     "summary": "Anthropic drops sharply, sinking below its IPO price",
+     "source": "WSJ Markets",
+     "image": "https://images.wsj.net/im-925349",
+     "time": "2026-11-24T09:53:51+00:00",
+     "also": []
+    },
+    {
      "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
      "link": "https://www.wsj.com/business/deals/sanofi-to-buy-insmed-for-41-0-billion-36d6b07d?mod=pls_whats_news_us_business_f",
      "summary": "The deal is the largest in pharmaceuticals this year and bolsters the French company’s drug pipeline.",
      "source": "WSJ Business",
      "image": "https://images.wsj.net/im-38799467",
      "time": "2026-11-24T09:39:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Compass Group Plans to Move Primary Listing to U.S.",
-     "link": "https://www.wsj.com/business/earnings/compass-group-plans-to-move-primary-listing-to-u-s-b06b7ea8?mod=pls_whats_news_us_business_f",
-     "summary": "The British catering contractor said it plans to move its primary stock market listing to the U.S. in another hit to the U.K.’s embattled public markets.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-50515958",
-     "time": "2026-11-24T08:33:00+00:00",
      "also": []
     },
     {
@@ -2271,21 +2483,21 @@
      "also": []
     },
     {
-     "title": "Jensen Huang Returns to Nvidia After President Trump Intervenes",
-     "link": "https://www.nytimes.com/2026/11/23/business/nvidia-jensen-huang.html",
-     "summary": "Mr. Trump, a close ally of Mr. Huang, led a campaign to assure the chip company’s board that the longtime chief executive did not present a national security risk.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-huang-stocks-tqlk/23biz-nvidia-huang-stocks-tqlk-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T00:13:24+00:00",
-     "also": []
-    },
-    {
      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
      "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
      "source": "BBC Business",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
      "time": "2026-11-24T00:11:08+00:00",
+     "also": []
+    },
+    {
+     "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+     "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+     "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+     "source": "BBC Business",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
+     "time": "2026-11-24T00:01:04+00:00",
      "also": []
     },
     {
@@ -2298,66 +2510,12 @@
      "also": []
     },
     {
-     "title": "Trump Engineered Huang’s Reinstatement as Nvidia CEO",
-     "link": "https://www.wsj.com/business/trump-engineered-huangs-reinstatement-as-nvidia-ceo-4e9c1cd3?mod=rss_markets_main",
-     "summary": "Plus, Nvidia added nearly $1 trillion in market value, and Trump ordered the U.S. Army to hold off on detonating tons of toxic explosives in Iowa.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-75358264",
-     "time": "2026-11-23T22:25:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Jensen Huang Returns to Nvidia, Showing What Trump Will Do for AI",
-     "link": "https://www.nytimes.com/2026/11/23/business/trump-jensen-huang-nvidia.html",
-     "summary": "President Trump intervened on behalf of the returning Nvidia chief in a bid to boost a key company driving the stock market. The company’s share price soared.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23dc-nvidia-econ-lvjb/23dc-nvidia-econ-lvjb-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T22:19:47+00:00",
-     "also": []
-    },
-    {
-     "title": "‘I Fell Off My Chair.’ Investors Marvel as Huang’s Return Sends Stocks Rocketing.",
-     "link": "https://www.wsj.com/finance/stocks/i-fell-off-my-chair-investors-marvel-as-huangs-return-sends-stocks-rocketing-98131bc6?mod=rss_markets_main",
-     "summary": "The tech-heavy Nasdaq composite roars back from last week’s selloff, adding more than $2 trillion in market value.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-59040797",
-     "time": "2026-11-23T21:45:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Audra Fordin Fixes Cars, and Eases Women’s Fears",
-     "link": "https://www.nytimes.com/2026/11/23/business/small-business/women-cars.html",
-     "summary": "Audra Fordin recognized an undeniable need to make automobile education more accessible, and did something about it.",
-     "source": "New York Times",
-     "image": null,
-     "time": "2026-11-23T21:31:04+00:00",
-     "also": []
-    },
-    {
      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
      "source": "BBC Business",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
      "time": "2026-11-23T21:23:42+00:00",
-     "also": []
-    },
-    {
-     "title": "Nvidia Chief’s Return Lifts Many Boats",
-     "link": "https://www.wsj.com/finance/stocks/nvidia-chiefs-return-lifts-many-boats-3b515f16?mod=rss_markets_main",
-     "summary": "Plus, credit markets aren’t so bullish about Jensen Huang’s reinstatement, and Anthropic’s impending bond-market challenge.",
-     "source": "WSJ Markets",
-     "image": "https://images.wsj.net/im-35899317",
-     "time": "2026-11-23T21:12:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Can Jensen Huang Return to Nvidia?",
-     "link": "https://www.nytimes.com/2026/11/23/business/dealbook/jensen-huang-nvidia.html",
-     "summary": "Jensen Huang did just that. Nvidia’s co-founder has been reinstated as chief executive, a move that has stunned Wall Street and Washington.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23db-huang-kglz/23db-huang-kglz-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T18:38:32+00:00",
      "also": []
     },
     {
@@ -2376,15 +2534,6 @@
      "source": "CNBC",
      "image": null,
      "time": "2026-11-23T18:00:47+00:00",
-     "also": []
-    },
-    {
-     "title": "Pip assessments need 'fundamental overhaul', report to say",
-     "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-     "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
-     "time": "2026-11-23T17:59:55+00:00",
      "also": []
     },
     {
@@ -2460,30 +2609,12 @@
      "also": []
     },
     {
-     "title": "Elon Musk Faces an A.I. Dilemma at SpaceX",
-     "link": "https://www.nytimes.com/2026/11/23/business/elon-musk-ai-anthropic-google.html",
-     "summary": "Mr. Musk’s SpaceX is renting out computing power from its data centers to competitors, including Anthropic. That’s making it harder for his own A.I. effort.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24biz-musk-anthropic-xai-hzpg/24biz-musk-anthropic-xai-hzpg-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T16:13:32+00:00",
-     "also": []
-    },
-    {
      "title": "How important are Nvidia and Jensen Huang to the US economy?",
      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
      "source": "BBC Business",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
      "time": "2026-11-23T16:12:35+00:00",
-     "also": []
-    },
-    {
-     "title": "The rise and fall and rise again of Jensen Huang",
-     "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-     "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-     "time": "2026-11-23T15:49:52+00:00",
      "also": []
     },
     {
@@ -2496,48 +2627,12 @@
      "also": []
     },
     {
-     "title": "Paolo Bulgari, Heir of Italian Jewelry Dynasty, Dies at 89",
-     "link": "https://www.nytimes.com/2026/11/23/style/paolo-bulgari-dead.html",
-     "summary": "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome. After the 2008 financial crisis, he steered the sale of the business to LVMH.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-bulgar-top-1/23xp-bulgar-top-1-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T15:39:34+00:00",
-     "also": []
-    },
-    {
-     "title": "Marcia Ann Gillespie, Editor in Chief of Essence and Ms., Has Died",
-     "link": "https://www.nytimes.com/2026/11/23/business/media/marcia-ann-gillespie-dead.html",
-     "summary": "She became editor in chief of Essence at age 26, and later ran the feminist magazine Ms. She was 82.",
-     "source": "New York Times",
-     "image": null,
-     "time": "2026-11-23T14:55:36+00:00",
-     "also": []
-    },
-    {
      "title": "CrowdStrike to Buy Zscaler in $44 Billion Stock Swap",
      "link": "https://www.wsj.com/business/deals/crowdstrike-to-buy-zscaler-in-43-9-billion-stock-swap-4c926031?mod=pls_whats_news_us_business_f",
      "summary": "The tie-up brings together two of cybersecurity’s biggest names as rapidly evolving AI threats make digital defense a boardroom priority.",
      "source": "WSJ Business",
      "image": "https://images.wsj.net/im-88499376",
      "time": "2026-11-23T14:45:00+00:00",
-     "also": []
-    },
-    {
-     "title": "Two Major Cybersecurity Firms to Combine in $44 Billion Deal",
-     "link": "https://www.nytimes.com/2026/11/23/business/crowdstrike-zscaler-cybersecurity.html",
-     "summary": "CrowdStrike agreed to acquire Zscaler, bulking up as worries about hacks fueled by advances in artificial intelligence bedevil companies and governments.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/biz-crowdstrike-zscaler-cwpb/biz-crowdstrike-zscaler-cwpb-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T13:08:06+00:00",
-     "also": []
-    },
-    {
-     "title": "Next data accessed in cyber breach",
-     "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-     "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg",
-     "time": "2026-11-23T12:34:07+00:00",
      "also": []
     },
     {
@@ -2550,48 +2645,12 @@
      "also": []
     },
     {
-     "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-     "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Public sector workers have been hit by delays to pension payments, in a scheme overseen by Capita since last year.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
-     "time": "2026-11-23T11:24:37+00:00",
-     "also": []
-    },
-    {
      "title": "Disney Bets Big on Streaming. Just Don’t Ask What It Costs.",
      "link": "https://www.wsj.com/finance/disney-bets-big-on-streaming-just-dont-ask-what-it-costs-4b33553a?mod=rss_markets_main",
      "summary": "More content, sports and maybe a free tier aim to make streaming a growth engine.",
      "source": "WSJ Markets",
      "image": "https://images.wsj.net/im-99127714",
      "time": "2026-11-23T10:30:00+00:00",
-     "also": []
-    },
-    {
-     "title": "South East Water reports loss after supply issues",
-     "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
-     "summary": "South East Water records a pre-tax loss of £22.9m in the six months to 30 September.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg",
-     "time": "2026-11-23T10:19:46+00:00",
-     "also": []
-    },
-    {
-     "title": "Poundland is facing collapse - what's gone wrong?",
-     "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-     "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
-     "time": "2026-11-23T10:09:25+00:00",
-     "also": []
-    },
-    {
-     "title": "Catering giant to switch main share listing to US in further blow to UK",
-     "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-     "summary": "A growing number of firms have been leaving the UK to list shares in the US in recent years.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg",
-     "time": "2026-11-23T09:54:04+00:00",
      "also": []
     },
     {
@@ -2610,15 +2669,6 @@
      "source": "WSJ Business",
      "image": "https://images.wsj.net/im-62502593",
      "time": "2026-11-23T07:50:00+00:00",
-     "also": []
-    },
-    {
-     "title": "ConocoPhillips to Sell Norwegian Business to Var Energi in $3.9 Billion Deal",
-     "link": "https://www.wsj.com/business/energy-oil/conocophillips-to-sell-norwegian-business-to-var-energi-in-3-9-billion-deal-49db3ea2?mod=pls_whats_news_us_business_f",
-     "summary": "The U.S. oil company said the deal includes selling a 40.25% interest in, and operatorship of, the U.K. Teesside oil terminal.",
-     "source": "WSJ Business",
-     "image": "https://images.wsj.net/im-21948951",
-     "time": "2026-11-23T07:27:00+00:00",
      "also": []
     },
     {
@@ -2665,57 +2715,93 @@
      "image": "https://i.dawn.com/large/2026/11/230410562eb3a3a.webp",
      "time": "2026-11-23T04:02:17+00:00",
      "also": []
-    },
-    {
-     "title": "Pakistan's rice exports rise to 1.35m tonnes in first four months of FY27",
-     "link": "https://www.dawn.com/news/2046486/pakistans-rice-exports-rise-to-135m-tonnes-in-first-four-months-of-fy27",
-     "summary": "https://www.dawn.com/news/2046421",
-     "source": "Dawn Business",
-     "image": "https://i.dawn.com/large/2026/01/2908592415a2087.webp",
-     "time": "2026-11-23T02:39:11+00:00",
-     "also": []
-    },
-    {
-     "title": "Govt moves to overhaul ‘weak’ audit system",
-     "link": "https://www.dawn.com/news/2046399/govt-moves-to-overhaul-weak-audit-system",
-     "summary": "• FBR task force flags weaknesses in existing review framework • Cabinet approves SECP Amendment Bill 2026 after consultation • Proposed legislation aims to strengthen independent audit oversight ISLAMABAD: The government has decided to overhaul the country’s ent­ire audit…",
-     "source": "Dawn Business",
-     "image": "https://i.dawn.com/large/2018/12/5c19a8d2bd193.jpg",
-     "time": "2026-11-23T02:32:55+00:00",
-     "also": []
-    },
-    {
-     "title": "Energy bills will soar - here's how you can ease the pain",
-     "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-     "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
-     "time": "2026-11-23T01:05:07+00:00",
-     "also": []
-    },
-    {
-     "title": "Big dams, ‘bigger liabilities’",
-     "link": "https://www.dawn.com/news/2046472/big-dams-bigger-liabilities",
-     "summary": "Pakistan has a remarkable ‘love affair’ with hydropower, one that has survived cost overruns, construction failures, prolonged shutdowns and the risks of building concrete behemoths in some of the world’s most hazardous terrain. The latest disaster at the Tarbela-5 construction…",
-     "source": "Dawn Business",
-     "image": "https://i.dawn.com/large/2025/07/687d75482107d.gif",
-     "time": "2026-11-23T00:54:21+00:00",
-     "also": []
-    },
-    {
-     "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-     "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-     "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-     "source": "BBC Business",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
-     "time": "2026-11-23T00:33:36+00:00",
-     "also": []
     }
    ]
   },
   "sports": {
    "label": "Sports",
    "items": [
+    {
+     "title": "Swepson looks to 'fly the flag' for legspin in Australia",
+     "link": "https://www.cricinfo.com/ci/content/story/1563859.html?ex_cid=OTC-RSS",
+     "summary": "The Queensland spinner claimed a career-best and was thrilled to see the nature of the SCG pitch",
+     "source": "ESPNcricinfo",
+     "image": "http://p.imgci.com/db/PICTURES/CMS/425700/425733.jpg",
+     "time": "2026-11-25T01:55:16+00:00",
+     "also": []
+    },
+    {
+     "title": "Czechs down Canada to reach Davis Cup semi-finals",
+     "link": "https://www.dawn.com/news/2046945/czechs-down-canada-to-reach-davis-cup-semi-finals",
+     "summary": "The Czech Republic got the Davis Cup finals underway on Tuesday with a 2-0 victory over Canada to secure their spot in the last four. Tomas Machac and Jiri Lehecka got the better of Liam Draxl and Felix Auger-Aliassime, respectively, in the first two singles rubbers to give the…",
+     "source": "Dawn Sport",
+     "image": "https://i.dawn.com/large/2026/11/2504560975391e9.webp",
+     "time": "2026-11-25T00:02:32+00:00",
+     "also": []
+    },
+    {
+     "title": "Bellingham plays down Zidane comparison after wonder goal",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c893r9kdwl91o?at_medium=RSS&at_campaign=rss",
+     "summary": "Jose Mourinho says Jude Bellingham is the best midfielder in the world, but the Real Madrid star played down comparisons to Zinedine Zidane.",
+     "source": "BBC Sport",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/204f/live/561f0780-e85e-11f1-8c24-5f78b2492e15.jpg",
+     "time": "2026-11-24T23:54:10+00:00",
+     "also": []
+    },
+    {
+     "title": "Sinner at risk of missing Australian Open after confirming knee surgery",
+     "link": "https://www.dawn.com/news/2046937/sinner-at-risk-of-missing-australian-open-after-confirming-knee-surgery",
+     "summary": "Jannik Sinner risks missing the Australian Open after confirming on Tuesday that he has undergone surgery on his troublesome right knee. The five-time Grand Slam champion has not played a match since winning Wimbledon for the second time in July, with less than two months until…",
+     "source": "Dawn Sport",
+     "image": "https://i.dawn.com/large/2026/07/130230555717a7e.webp",
+     "time": "2026-11-24T23:46:02+00:00",
+     "also": []
+    },
+    {
+     "title": "Arteta says Arsenal need more luck to kill off games",
+     "link": "https://www.bbc.co.uk/sport/football/articles/c3ewv0kdjlp9o?at_medium=RSS&at_campaign=rss",
+     "summary": "Arsenal need more luck to kill off games says manager Mikel Arteta after they are held to a draw by Borussia Dortmund.",
+     "source": "BBC Sport",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f58f/live/d9bad6f0-e859-11f1-9b85-e50d1e9de678.jpg",
+     "time": "2026-11-24T23:44:04+00:00",
+     "also": []
+    },
+    {
+     "title": "Bellingham beauty in Real Madrid win as Arsenal, Man City held in Champions League",
+     "link": "https://www.dawn.com/news/2046928/bellingham-beauty-in-real-madrid-win-as-arsenal-man-city-held-in-champions-league",
+     "summary": "Jude Bellingham scored one of the goals of the season as Real Madrid hammered PSV Eindhoven 5-1 on Tuesday to maintain their perfect record in this season’s Champions League, while Arsenal and Manchester City were both held to draws at home. Elsewhere, debutants Como and Real…",
+     "source": "Dawn Sport",
+     "image": "https://i.dawn.com/large/2026/11/25040844c7c5995.webp",
+     "time": "2026-11-24T23:33:38+00:00",
+     "also": []
+    },
+    {
+     "title": "'Pass, pass, slow, slow' - Man City's slick machine grinding to a halt",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cj3vgdp2edpxo?at_medium=RSS&at_campaign=rss",
+     "summary": "Manchester City's slick footballing machine is starting to grind to a halt, as displayed in their laborious Champions League draw against Napoli.",
+     "source": "BBC Sport",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc72/live/fbc81740-e853-11f1-aa88-031e8213533d.jpg",
+     "time": "2026-11-24T23:17:42+00:00",
+     "also": []
+    },
+    {
+     "title": "Pochettino leads Man Utd fury at Yoro red card ruling",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cqzr5ylmeerlo?at_medium=RSS&at_campaign=rss",
+     "summary": "Manchester United and Mauricio Pochettino are furious at how Leny Yoro's red card has been handled by VAR John Brooks and referees' chief Howard Webb",
+     "source": "BBC Sport",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5078/live/783a6be0-e848-11f1-a094-5fdc692f3e33.jpg",
+     "time": "2026-11-24T22:05:31+00:00",
+     "also": []
+    },
+    {
+     "title": "Man Utd target Collins - Wednesday's gossip",
+     "link": "https://www.bbc.co.uk/sport/football/articles/cm15en5je9eko?at_medium=RSS&at_campaign=rss",
+     "summary": "Manchester United target Brentford defender Nathan Collins, Bournemouth price forward Eli Junior Kroupi at £100m and Liverpool close in on new Rio Ngumoha contract.",
+     "source": "BBC Sport",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d34b/live/8ee6d700-e840-11f1-a094-5fdc692f3e33.png",
+     "time": "2026-11-24T20:51:44+00:00",
+     "also": []
+    },
     {
      "title": "Bayern hold 'constructive' talks over Musiala's health",
      "link": "https://www.bbc.co.uk/sport/football/articles/c9x2ejnypp8jo?at_medium=RSS&at_campaign=rss",
@@ -2834,15 +2920,6 @@
      "also": []
     },
     {
-     "title": "Yoro red card overturned, but refs' chief Webb backs decision",
-     "link": "https://www.bbc.co.uk/sport/football/articles/ck868g93djl5o?at_medium=RSS&at_campaign=rss",
-     "summary": "Manchester United defender Leny Yoro is clear to face Brentford on Saturday as his red card at Anfield is overturned.",
-     "source": "BBC Sport",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8849/live/f41d1460-e820-11f1-a58d-43263bea41a8.jpg",
-     "time": "2026-11-24T17:00:32+00:00",
-     "also": []
-    },
-    {
      "title": "Pakistan A defend 168 to survive Nepal scare",
      "link": "https://www.cricinfo.com/ci/content/story/1563845.html?ex_cid=OTC-RSS",
      "summary": "Pakistan bundled out Nepal for 72 in 17.3 overs to set a semi-final against Bangladesh A on Friday",
@@ -2894,15 +2971,6 @@
      "source": "BBC Sport",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1d8/live/1b173050-e7fe-11f1-99a1-253766e7ad8b.jpg",
      "time": "2026-11-24T14:05:05+00:00",
-     "also": []
-    },
-    {
-     "title": "Women's smaller ball trial extended into second season",
-     "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cm0l3nlk2zlzo?at_medium=RSS&at_campaign=rss",
-     "summary": "World Rugby extends the women's 4.5 ball trial for a second season after releasing data showing improvements in several areas of the game and receiving \"overwhelmingly positive\" feedback from players and coaches.",
-     "source": "BBC Sport",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a13/live/3ce06f80-e808-11f1-95bb-3f37d3e026b0.jpg",
-     "time": "2026-11-24T14:00:37+00:00",
      "also": []
     },
     {
@@ -2966,15 +3034,6 @@
      "source": "ESPNcricinfo",
      "image": "http://p.imgci.com/db/PICTURES/CMS/424200/424284.jpg",
      "time": "2026-11-24T12:42:32+00:00",
-     "also": []
-    },
-    {
-     "title": "Non-league player injured falling down badger hole",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cw0k636m0vr3o?at_medium=RSS&at_campaign=rss",
-     "summary": "Cav Miley missed Chelmsford City's draw with Walton and Hersham after spraining an ankle falling down a badger hole.",
-     "source": "BBC Sport",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da19/live/dba64620-e7ff-11f1-99a1-253766e7ad8b.png",
-     "time": "2026-11-24T12:31:12+00:00",
      "also": []
     },
     {
@@ -3086,15 +3145,6 @@
      "also": []
     },
     {
-     "title": "Barnet forward Noel-Williams charged with rape",
-     "link": "https://www.bbc.co.uk/news/articles/c8dx1v361vw7o?at_medium=RSS&at_campaign=rss",
-     "summary": "Isiah Noel-Williams, from St Albans, is remanded in custody charged with three rape offences.",
-     "source": "BBC Sport",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dc1/live/d2d49100-e7e1-11f1-82bb-6b3be4dcbf70.jpg",
-     "time": "2026-11-24T08:50:17+00:00",
-     "also": []
-    },
-    {
      "title": "Cricket's saliva ban to stay despite Indian skipper Shubman Gill’s call to overturn rule",
      "link": "https://www.dawn.com/news/2046748/crickets-saliva-ban-to-stay-despite-indian-skipper-shubman-gills-call-to-overturn-rule",
      "summary": "The International Cricket Council has no plans to reverse the ban on applying saliva to shine the ball, despite India skipper Shubman Gill’s call to allow the practice again. Gill on Monday said the ban should be revoked to help bowlers get reverse swing, after India’s…",
@@ -3164,24 +3214,6 @@
      "source": "Dawn Sport",
      "image": "https://i.dawn.com/large/2026/11/24121817e3b2255.webp",
      "time": "2026-11-24T07:18:32+00:00",
-     "also": []
-    },
-    {
-     "title": "Why has De Bruyne struggled at Napoli as he returns to Man City?",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cqglreexkk06o?at_medium=RSS&at_campaign=rss",
-     "summary": "Kevin de Bruyne's move to Napoli last summer was supposed to mark a continuation of his glittering decade at Manchester City as he approaches the twilight years of his career.",
-     "source": "BBC Sport",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20b6/live/837998e0-e745-11f1-88dc-f746e0cde621.jpg",
-     "time": "2026-11-24T06:57:16+00:00",
-     "also": []
-    },
-    {
-     "title": "Two goals in 15 games - what's going on with Gyokeres?",
-     "link": "https://www.bbc.co.uk/sport/football/articles/cklylr15gr2do?at_medium=RSS&at_campaign=rss",
-     "summary": "Arsenal have made an impressive start to the campaign but it has been a frustrating one for striker Viktor Gyokeres.",
-     "source": "BBC Sport",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d238/live/f4fcc0e0-e76e-11f1-ae0a-d1908652a433.jpg",
-     "time": "2026-11-24T06:45:27+00:00",
      "also": []
     },
     {
@@ -3374,12 +3406,12 @@
      "also": []
     },
     {
-     "title": "Peshawar added as PSL's sixth venue, set to host 2027 opener",
-     "link": "https://www.cricinfo.com/ci/content/story/1563712.html?ex_cid=OTC-RSS",
-     "summary": "The stadium will also revert to its historic name, Arbab Niaz Stadium, having previously been known as Imran Khan Cricket Stadium",
-     "source": "ESPNcricinfo",
-     "image": "http://p.imgci.com/db/PICTURES/CMS/416500/416565.jpg",
-     "time": "2026-11-23T15:42:20+00:00",
+     "title": "'Ridiculous stuff!' - Incredible touchdown throw in NFL best plays",
+     "link": "https://www.bbc.co.uk/sport/american-football/videos/cq07411l0xygo?at_medium=RSS&at_campaign=rss",
+     "summary": "A \"ridiculous\" touchdown throw by Tennessee Titans quarterback Cam Ward features in the best plays week 11 of the NFL regular season.",
+     "source": "BBC Sport",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/930b/live/02100b30-e728-11f1-99a1-253766e7ad8b.jpg",
+     "time": "2026-11-23T12:19:19+00:00",
      "also": []
     },
     {
@@ -3416,15 +3448,6 @@
      "source": "Dawn Sport",
      "image": "https://i.dawn.com/large/2026/11/23110418181a1b4.webp",
      "time": "2026-11-23T06:08:11+00:00",
-     "also": []
-    },
-    {
-     "title": "Fullkrug scores again as Bremen hammer Hamburg in Bundesliga",
-     "link": "https://www.dawn.com/news/2046450/fullkrug-scores-again-as-bremen-hammer-hamburg-in-bundesliga",
-     "summary": "Niclas Fullkrug returned to the top of the Bundesliga goalscoring charts as Werder Bremen hammered derby rivals Hamburg 4-0 on Sunday to climb to sixth in the table. Fullkrug scored in stoppage time to make it 10 goals in 10 league games this season, after Justin Njinmah bagged…",
-     "source": "Dawn Sport",
-     "image": "https://i.dawn.com/large/2026/11/230438348b46b85.webp",
-     "time": "2026-11-22T23:42:42+00:00",
      "also": []
     },
     {
@@ -3489,21 +3512,102 @@
      "image": null,
      "time": "2026-11-22T10:03:23+00:00",
      "also": []
-    },
-    {
-     "title": "Alcaraz to face Zverev for ATP Finals title",
-     "link": "https://www.dawn.com/news/2046237/alcaraz-to-face-zverev-for-atp-finals-title",
-     "summary": "Carlos Alcaraz rallied past Ben Shelton on Saturday to book his spot in the ATP Finals title match, where he will meet world number one Alexander Zverev as he bids to lift the trophy for the first time. The world number three showed signs of vulnerability but fought through to…",
-     "source": "Dawn Sport",
-     "image": "https://i.dawn.com/large/2026/11/22042952290dd28.webp",
-     "time": "2026-11-21T23:38:37+00:00",
-     "also": []
     }
    ]
   },
   "tech": {
    "label": "Tech",
    "items": [
+    {
+     "title": "US attorney general dodges questions about Nvidia investigation",
+     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+     "source": "BBC Tech",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+     "time": "2026-11-25T03:44:07+00:00",
+     "also": []
+    },
+    {
+     "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+     "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+     "summary": "The verdict follows a months-long trial in New York.",
+     "source": "BBC Tech",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg",
+     "time": "2026-11-25T02:59:27+00:00",
+     "also": []
+    },
+    {
+     "title": "Tidal bans 100% AI-generated music with plans to delete more than 27m tracks",
+     "link": "https://www.theguardian.com/music/2026/nov/25/tidal-streaming-service-bans-ai-generated-music",
+     "summary": "Streaming service says 43% of uploads to platform in past 90 days were made entirely by artificial intelligence The music streaming service Tidal has announced it will ban entirely AI-generated music from its platform and remove millions of songs, saying AI music “diverts…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/b8638ee431643455ce8b3251c145e5241b067c0a/1120_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=adb674c128e535ccd805c3ca0c4f6c35",
+     "time": "2026-11-25T02:12:22+00:00",
+     "also": []
+    },
+    {
+     "title": "Why tiny cars are taking off across Europe",
+     "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+     "summary": "Once seen as a car for elderly, rural people, tiny cars are being embraced by a younger demographic.",
+     "source": "BBC Tech",
+     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+     "time": "2026-11-25T00:34:05+00:00",
+     "also": []
+    },
+    {
+     "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
+     "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html",
+     "summary": "Justice Department investigators have gathered evidence of Nvidia’s high-powered computer chips being illegally diverted by other firms to China, according to people familiar with the inquiries.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/24dc-doj-nvidia-01-zpmh/24dc-doj-nvidia-01-zpmh-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T23:27:37+00:00",
+     "also": []
+    },
+    {
+     "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+     "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+     "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with…",
+     "source": "The Guardian",
+     "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
+     "time": "2026-11-24T22:05:21+00:00",
+     "also": []
+    },
+    {
+     "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
+     "link": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
+     "summary": "A day after returning to his company, Mr. Huang acknowledged that he had violated Nvidia’s code of conduct and “made some terrible mistakes.”",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T21:46:11+00:00",
+     "also": []
+    },
+    {
+     "title": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
+     "link": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
+     "summary": "It’s not possible to determine the size of the president’s stake in the chip maker because there is a lag between when trades occur and when they are disclosed.",
+     "source": "New York Times",
+     "image": null,
+     "time": "2026-11-24T21:29:57+00:00",
+     "also": []
+    },
+    {
+     "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
+     "link": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
+     "summary": "Abdulrahman Alfozan, who has been jailed since October, will be freed on a $1 million bond. Prosecutors say he recorded dozens of meetings.",
+     "source": "New York Times",
+     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg",
+     "time": "2026-11-24T21:09:25+00:00",
+     "also": []
+    },
+    {
+     "title": "Tech Life",
+     "link": "https://www.bbc.co.uk/sounds/play/w3ct8jyx?at_medium=RSS&at_campaign=rss",
+     "summary": "Experts from around the world plot the progress of AI development every five years.",
+     "source": "BBC Tech",
+     "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ppq4sx.jpg",
+     "time": "2026-11-24T21:00:00+00:00",
+     "also": []
+    },
     {
      "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
      "link": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html",
@@ -3514,39 +3618,12 @@
      "also": []
     },
     {
-     "title": "US attorney general dodges questions about Nvidia investigation",
-     "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-     "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
-     "source": "BBC Tech",
-     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-     "time": "2026-11-24T18:55:59+00:00",
-     "also": []
-    },
-    {
-     "title": "Jensen Huang Apologizes to Nvidia Employees, Says He Is in Therapy",
-     "link": "https://www.nytimes.com/2026/11/24/technology/jensen-huang-apology-nvidia-ceo.html",
-     "summary": "A day after returning to his company, Mr. Huang acknowledged that he violated Nvidia’s code of conduct and that he “made some terrible mistakes.”",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/24/multimedia/NVIDIA-MEETING-1-ltjp/NVIDIA-MEETING-1-ltjp-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T18:34:30+00:00",
-     "also": []
-    },
-    {
      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
      "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
      "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
      "source": "BBC Tech",
      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
      "time": "2026-11-24T18:21:43+00:00",
-     "also": []
-    },
-    {
-     "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
-     "link": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
-     "summary": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s extraordinary return to Nvidia days after he was forced to resign, with…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/ba0b7e2734b3f5675558eff081b376f8f83077b6/479_0_4801_3840/master/4801.jpg?width=140&quality=85&auto=format&fit=max&s=814d34a792f3088b68350ec9f04f70e5",
-     "time": "2026-11-24T18:00:24+00:00",
      "also": []
     },
     {
@@ -3591,7 +3668,7 @@
      "summary": "Nvidia’s board said Mr. Huang would not be back. But President Trump, who pushed for Mr. Huang’s reinstatement, effectively overrode the board, governance experts said.",
      "source": "New York Times",
      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-nvidia-board-1-hjlv/23biz-nvidia-board-1-hjlv-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T15:40:13+00:00",
+     "time": "2026-11-24T15:40:14+00:00",
      "also": []
     },
     {
@@ -3664,24 +3741,6 @@
      "source": "The Guardian",
      "image": "https://i.guim.co.uk/img/media/ff56fa52c937e43cf50c68e8e45bc1f53dfcba5a/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=867721205df12e4dff5d79250316677f",
      "time": "2026-11-24T08:00:11+00:00",
-     "also": []
-    },
-    {
-     "title": "Kate Bush and Grace Jones urge Australian government not to legalise AI ‘theft’",
-     "link": "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
-     "summary": "Singers among 7,000 artists and creatives urging Labor to protect copyright law in face of lobbying from AI companies Get our breaking news email, free app or daily news podcast Kate Bush, Grace Jones and Sir Ian Rankin have joined 7,000 artists and creatives around the world…",
-     "source": "The Guardian",
-     "image": "https://i.guim.co.uk/img/media/21e4f2131883854613075e2b5a9adea78afe7c72/444_29_1810_1449/master/1810.jpg?width=140&quality=85&auto=format&fit=max&s=baf8b4657b84add34bc31d8596e73b73",
-     "time": "2026-11-24T05:58:15+00:00",
-     "also": []
-    },
-    {
-     "title": "OpenAI Engineer Secretly Recorded Dozens of Meetings, Prosecutors Say",
-     "link": "https://www.nytimes.com/2026/11/23/technology/openai-engineer-secret-recordings.html",
-     "summary": "A court filing said the engineer captured meetings on customers, A.I. safety and a foreign government briefing. Federal prosecutors are investigating what he did with the recordings.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23biz-openai-bugging-1-jmpw/23biz-openai-bugging-1-jmpw-mediumSquareAt3X.jpg",
-     "time": "2026-11-24T01:36:37+00:00",
      "also": []
     },
     {
@@ -3763,15 +3822,6 @@
      "source": "The Guardian",
      "image": "https://i.guim.co.uk/img/media/0685580621412c0ab09c57f3e1cbcfe36f682121/126_0_3780_3024/master/3780.jpg?width=140&quality=85&auto=format&fit=max&s=fa2ca7ab7793e1ef1f6f28976543118b",
      "time": "2026-11-23T17:18:06+00:00",
-     "also": []
-    },
-    {
-     "title": "Trump’s Own Stock Portfolio Likely Benefits From Nvidia’s Rise",
-     "link": "https://www.nytimes.com/2026/11/23/technology/trump-nvidia-stock-purchases.html",
-     "summary": "It’s not possible to determine the size of the president’s stake in the chip maker because there is a lag between when trades occur and when they are disclosed.",
-     "source": "New York Times",
-     "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23nvidia-trump-stock-pkhj/23nvidia-trump-stock-pkhj-mediumSquareAt3X.jpg",
-     "time": "2026-11-23T17:04:35+00:00",
      "also": []
     },
     {
